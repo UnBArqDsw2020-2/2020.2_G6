@@ -1,13 +1,17 @@
 # Nome do Projeto
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 06<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0022673  | Ailamar Alves Guimarães |
+| 16/0120942  | Gabriel Dias Viana |
+| 16/0124484  | Heron Rodrigues Sousa |
+| 16/0125162  | Ingrid da Cruz Galvao dos Santos Soares |
+| 17/0080307  | Matheus Amaral Moreira |
+
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
