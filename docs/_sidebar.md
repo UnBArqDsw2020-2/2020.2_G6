@@ -1,5 +1,15 @@
 <!-- docs/_sidebar.md -->
 * [Home](/README)
+
+---
+
+* Sprints
+  - [Sprint 0](/pages/sprints/sprint0)
+* Apresentações 
+  - [Vídeos](/pages/presentations/presentations)
+
+---
+
 * Base
   * Design Sprint
     * [Metodologia](/pages/)
@@ -21,8 +31,8 @@
 
 ---
 
-* [Politica](/pages/policy/policy)
-* Sprints
-  * [Sprint 1](/pages/)
-* [Apresentações](./pages)
-* [Repositório](https://github.com/UnBArqDsw2020-2/2020.2_G6)
+* Políticas
+  - [Politica de contribuíção](/pages/policy/policy)
+* Links
+  * [Repositório](https://github.com/UnBArqDsw2020-2/2020.2_G6)
+  * [Página do site](/)
