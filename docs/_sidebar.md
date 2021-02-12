@@ -4,20 +4,18 @@
 ---
 
 * Sprints
-  - [Sprint 0](/pages/sprints/sprint0)
+  - [Sprint 0](/pages/sprints/sprint0.md)
 * Apresentações 
   - [Vídeos](/pages/presentations/presentations)
 
 ---
 
 * Base
-  * Design Sprint
-    * [Metodologia](/pages/)
+  * [Design Sprint](/page/base/designsprint.md)
   * Pré-rastreabilidade
     * [Rich Picture](/pages/)
-    * [5W2H](/pages/)
+    * [5W2H](/pages/base/preTraceability/5w2h.md)
     * [Mapa Mental](/pages/)
-    * [Argumentação](/pages/)
     * [Análise de Risco](/pages/)
     * [Causa e Efeito](/pages/)
   * Elicitação de Requisitos
