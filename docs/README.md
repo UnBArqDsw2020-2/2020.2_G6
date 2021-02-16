@@ -24,18 +24,16 @@ Pensando em facilitar de forma visual os dados existentes na [API da SpaceX](htt
       <p>Gabriel Dias</p>
       <img src="./assets/img/time/gabriel.jpg" alt="contributor">
     </div>
-  </div>
-  <div class="members">
     <div class="member">
       <p>Heron Rodrigues</p>
       <img src="./assets/img/time/heron.jpg" alt="contributor">
     </div>
+  </div>
+  <div class="members">
     <div class="member">
       <p>Ingrid da Cruz Galvao</p>
       <img src="./assets/img/time/ingrid.jpg"alt="contributor">
     </div>
-  </div>
-  <div class="member">
     <div class="member">
       <p>Matheus Amaral</p>
       <img src="./assets/img/time/matheus.jpg"alt="contributor">
@@ -55,7 +53,7 @@ Pensando em facilitar de forma visual os dados existentes na [API da SpaceX](htt
 
   .member img {
     position: relative;
-    width: 250px;
+    width: 200px;
     opacity: 1;
     border-style: solid;
     border-radius: 200px;
