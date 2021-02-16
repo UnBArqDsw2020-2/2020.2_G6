@@ -33,4 +33,4 @@
   - [Politica de contribuíção](/pages/policy/policy)
 * Links
   * [Repositório](https://github.com/UnBArqDsw2020-2/2020.2_G6)
-  * [Página do site](/)
+  * [Página do site](/pages/)
