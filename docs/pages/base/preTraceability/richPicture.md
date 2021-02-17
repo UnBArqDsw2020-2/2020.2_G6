@@ -6,11 +6,16 @@ O Rich Picture é uma técnica que gera um artefato de grau inferior de formalid
 
 A metodologia adotada pelo grupo para o desenvolvimento dos Rich Pictures consiste em que cada integrante monte um artefato representando o funcionamento geral da aplicação.
 
+## RP1 
+
+![RP1](../../../assets/img/richPicture/rich-picture-geral.png)
+
 ## Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------: |:-----------------------:|
 |17/02/2021| 0.1 | Criação do documento e introdução | Heron Rodrigues |
+|17/02/2021| 0.2 | Adição do [RP1](#rp1) | Heron Rodrigues |
 
 </br>
 
