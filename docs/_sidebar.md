@@ -20,7 +20,7 @@
     * [Causa e Efeito](/pages/)
   * Elicitação de Requisitos
     * Técnicas
-      * [Brainstorming](/pages/)
+      * [Brainstorming](/pages/base/elicitation/brainstorming.md)
       * [Introspecção](/pages/)
       * [Storytelling](/pages/)
       * [Questionário](/pages/)
