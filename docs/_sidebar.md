@@ -11,7 +11,7 @@
 ---
 
 * Base
-  * [Design Sprint](/page/base/designsprint.md)
+  * [Design Sprint](/pages/base/designsprint.md)
   * Pré-rastreabilidade
     * [Rich Picture](/pages/)
     * [5W2H](/pages/base/preTraceability/5w2h.md)
