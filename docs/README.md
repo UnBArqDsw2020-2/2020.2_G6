@@ -29,7 +29,7 @@ Pensando em facilitar de forma visual os dados existentes na [API da SpaceX](htt
       <img src="./assets/img/time/heron.jpg" alt="contributor">
     </div>
   </div>
-  <div class="members">
+  <div class="members" align="center">
     <div class="member">
       <p>Ingrid da Cruz Galvao</p>
       <img src="./assets/img/time/ingrid.jpg"alt="contributor">
