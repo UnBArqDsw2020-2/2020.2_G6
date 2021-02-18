@@ -8,7 +8,15 @@ A metodologia adotada pelo grupo para o desenvolvimento dos Rich Pictures consis
 
 ## RP1 
 
-![RP1](../../../assets/img/richPicture/rich-picture-geral.png)
+![RP1](../../../assets/img/richPicture/rp1.png)
+
+## RP2 
+
+![RP2](../../../assets/img/richPicture/rp2.jpg)
+
+## RP3
+
+![RP3](../../../assets/img/richPicture/rp3.jpg)
 
 ## Versionamento
 
@@ -16,6 +24,8 @@ A metodologia adotada pelo grupo para o desenvolvimento dos Rich Pictures consis
 |:--------:|:---:|:-------------------: |:-----------------------:|
 |17/02/2021| 0.1 | Criação do documento e introdução | Heron Rodrigues |
 |17/02/2021| 0.2 | Adição do [RP1](#rp1) | Heron Rodrigues |
+|17/02/2021| 0.3 | Adição do [RP2](#rp2) | Matheus Amaral |
+|17/02/2021| 0.4 | Adição do [RP3](#rp3) | Ingrid Galvão |
 
 </br>
 
