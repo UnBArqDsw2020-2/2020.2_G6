@@ -2,12 +2,12 @@
  
 Trata-se de uma técnica que descreve os símbolos de uma linguagem. Esses símbolos são descritos com noções e impactos, além disso são divididos entre estados, objetos e verbos. Tem como objetivo identificar palavras chaves que podem ser desconhecidas. 
  
-# Metodologia
+## Metodologia
 
 Cada termo levantado deve ser descrito com sua noção e impacto, sendo a noção o que realmente significa o termo, ou seja, a definição literal e o impacto representando o efeito e qual o real uso daquele termo na aplicação.
 
-# Levantamentos 
-## Tipo verbo
+## Levantamentos 
+### Tipo verbo
  
 ID  | Termo | Noção | Impacto | Sinônimos |
 :-: | :---: | :---- | :------ | :-------- |
@@ -20,13 +20,13 @@ L06 | Acessar lançamentos anteriores | - Usuário navega na seção de lançame
 L07 | Sair | - Desconectar da conta | - O usuário desconecta da conta em sua máquina. <br> - Usuário finaliza sua navegação no site. | - *Logout* <br> - Desconectar
 
  
-## Tipo objeto
+### Tipo objeto
  
 ID | Termo | Noção | Impacto | Sinônimos |
 :-:| :---: | :---- | :------ | :-------: |
 L01 |Objeto|
 
-## Tipo estado
+### Tipo estado
  
 ID  | Termo | Noção | Impacto | Sinônimos |
 :-: | :---: | :---- | :------ | :-------: |
