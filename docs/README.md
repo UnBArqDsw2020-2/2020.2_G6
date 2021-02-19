@@ -1,7 +1,7 @@
 # Arquitetura e Desenho de Software
 
 <p align="center">
-  <img src="./assets/img/logo/logo-nome.jpg" alt="Logo" width="50%"/>
+  <img src="./assets/logo/logo-nome.jpg" alt="Logo" width="50%"/>
 </p>
 
 ## Sobre o Projeto
