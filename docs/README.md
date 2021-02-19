@@ -77,7 +77,7 @@ Pensando em facilitar de forma visual os dados existentes na [API da SpaceX](htt
     margin-top: 120px;
     position: absolute;
     opacity: 1;
-    color: #fff;
+    color: #000;
     font-weight: bold;
     font-family: Montserrat;
   }
