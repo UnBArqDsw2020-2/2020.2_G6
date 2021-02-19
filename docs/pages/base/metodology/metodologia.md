@@ -14,6 +14,10 @@ Para o desenvolvimento do projeto, foi decidido que seriam utilizadas diferentes
 
 ### Scrum
 
+***Figura 1: Esquema método Scrum.***
+![Metodo scrum](./img/scrum.png)
+***Fonte: https://www.desenvolvimentoagil.com.br/scrum/.***
+
 - **Sprint:** Na metodologia Scrum os projetos são divididos em ciclos que são chamados de Sprints. Esses ciclos correspondem ao tempo em que um conjunto de atividades deve ser executado.
 - **Sprint Planning:** É realizada no início de cada Sprint, ou seja, uma reunião de planejamento na qual são priorizados os itens do Product Backlog e a equipe seleciona as atividades que serão implementadas durante o Sprint da semana.
 - **Sprint Review:** Nesta parte da reunião o time tem o feedback do que foi alcançado durante a Sprint, assim o projeto é avaliado em relação aos objetivos esperados da Sprint Planning anterior.
@@ -40,25 +44,31 @@ As reuniões ficaram definidas de acordo com a metodologia adotada, acontecendo 
 
 ## Ferramentas
 
-- **GitHub:** Utilizado para controle de versão e backup de toda documentação e também desenvolvimento do projeto.
-- **Telegram:** Utilizado para comunicação entre os membros da equipe.
-- **Google drive:** Utilizado para o compartilhamento de determinados documentos, permitindo a contribuição de todos os integrantes do grupo.
-- **Zenhub:** Utilizado como KanBan do projeto, para gerenciamento das issues.
-- **Discord:** Ferramenta para a realização das reuniões de plannings, reviews, dailys e pareamentos.
-- **Microsoft Teams:** É utilizado para ensaios e gravação das apresentações.
+|    |    |
+---- |:--- 
+![GitHub logo](./img/gitHub.png ':size=150') | [**GitHub:**](https://github.com/) Utilizado para controle de versão e backup de toda documentação e também desenvolvimento do projeto.
+![Telegram Logo](./img/telegram.png ':size=150') | [**Telegram:**](https://telegram.org/) Utilizado para comunicação entre os membros da equipe.
+![Google Drive logo](./img/drive.png ':size=150') |[**Google Drive:**](https://www.google.com.br/drive/apps.html) Utilizado para o compartilhamento de determinados documentos, permitindo a contribuição de todos os integrantes do grupo.
+![Zenhub logo](./img/zenhub.png ':size=150') | [**Zenhub:**](https://www.zenhub.com/) Utilizado como KanBan do projeto, para gerenciamento das issues.
+![Discord logo](./img/discord.png ':size=150') | [**Discord:**](https://discord.com/) Ferramenta para a realização das reuniões de plannings, reviews, dailys e pareamentos.
+![Teams Logo](./img/teams.jpg ':size=150') | [**Microsoft Teams:**](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) É utilizado para ensaios e gravação das apresentações.
 
 ## Regras de contribuição
 
 Para quem deseja contribuir com nosso projeto deve-se seguir o padrão, previamente estabelecido, no documento de [Políticas](https://unbarqdsw2020-2.github.io/2020.2_G6/#/pages/policy/policies). Nesse documento possui as normas de contribuição e padrões do projeto. 
 
+---
+
 ## Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:-----------------------:|
-|18/02/2021| 0.1 | Criação do documento | 
+|18/02/2021| 0.1 | Criação do documento | Heron Rodrigues
+|18/02/2021| 0.2 | Adição de Ferramentas e Reuniões | Ailamar Alves
+
 
 ## Referências
 
-- ESPINHA, Roberto Gil, Kanban O que é e TUDO sobre como gerenciar fluxos de trabalho. Disponível em: <https://artia.com/kanban/>. Acesso em fev 2021
-- Product Backlog: gestão ágil com Scrum. Disponível em: <DesenvolvimentoAgil.com.br>. Acesso em fev 2021
-- Extreme Programming. Disponível em <https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498>. Acesso em fev 2021
+- ESPINHA, Roberto Gil, Kanban O que é e TUDO sobre como gerenciar fluxos de trabalho. Disponível em: <https://artia.com/kanban/>. Acesso em fev 2021.
+- Product Backlog: gestão ágil com Scrum. Disponível em: <DesenvolvimentoAgil.com.br>. Acesso em fev 2021.
+- Extreme Programming. Disponível em <https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498>. Acesso em fev 2021.
