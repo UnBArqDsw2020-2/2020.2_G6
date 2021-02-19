@@ -17,7 +17,7 @@
     * [5W2H](/pages/base/preTraceability/5w2h.md)
     * [Mapa Mental](/pages/)
     * [Análise de Risco](/pages/)
-    * [Causa e Efeito](/pages/base/preTraceability/casaEfeito.md)
+    * [Causa e Efeito](/pages/base/preTraceability/causaEfeito.md)
   * Elicitação de Requisitos
     * Técnicas
       * [Brainstorming](/pages/base/elicitation/brainstorming.md)
