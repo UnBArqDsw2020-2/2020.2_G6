@@ -9,17 +9,28 @@ O time decidiu criar personas baseadas em diferentes situações que podem ser a
 
 ## P1
 
-![P1](../../../assets/img/persona/p1.jpg)
+![P1](../../../assets/img/persona/p1.png)
 
 </br>
+## P2
+
+![P2](../../../assets/img/persona/Persona2.0.png)
+![P2](../../../assets/img/persona/Persona2.1.png)
+
+</br>
+## P3
+
+![P3](../../../assets/img/persona/Persona3.png)
+
 
 ## Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------: |:-----------------------:|
 |18/02/2021| 0.1 | Criação do documento e introdução | Heron Rodrigues |
-|18/02/2021| 0.1 | Adição da P1 | Heron Rodrigues |
-
+|18/02/2021| 0.2 | Adição da P1 | Heron Rodrigues |
+|18/02/2021| 0.3 | Adição da P2 | Ingrid Soares |
+|18/02/2021| 0.4 | Adição da P3 | Ingrid Soares |
 </br>
 
 ### Referências
