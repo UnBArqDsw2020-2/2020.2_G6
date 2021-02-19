@@ -12,12 +12,14 @@ O time decidiu criar personas baseadas em diferentes situações que podem ser a
 ![P1](../../../assets/img/persona/p1.png)
 
 </br>
+
 ## P2
 
 ![P2](../../../assets/img/persona/Persona2.0.png)
 ![P2](../../../assets/img/persona/Persona2.1.png)
 
 </br>
+
 ## P3
 
 ![P3](../../../assets/img/persona/Persona3.png)
