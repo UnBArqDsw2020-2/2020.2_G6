@@ -26,7 +26,7 @@
       * [Storyboard](/pages/base/elicitation/storyboard.md)
       * [Questionário](/pages/)
     * Priorização
-      * [MoSCoW](/pages/elicitations/moscow)
+      * [MoSCoW](/pages/base/elicitations/moscow.md)
 
 ---
 
