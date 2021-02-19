@@ -6,6 +6,11 @@ Persona é um personagem fictício, baseado em dados de clientes reais, como com
 
 O time decidiu criar personas baseadas em diferentes situações que podem ser abordadas pela aplicação. Para a geração das personas foi utilizado o programa [O Fantástico Gerador de Personas de Marketing](https://geradordepersonas.com.br). Estas personas poderão ser usadas como referências para outras técnicas como Introspecção e Storyboard.
 
+
+## P1
+
+![P1](../../../assets/img/persona/p1.jpg)
+
 </br>
 
 ## Versionamento
@@ -13,6 +18,7 @@ O time decidiu criar personas baseadas em diferentes situações que podem ser a
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------: |:-----------------------:|
 |18/02/2021| 0.1 | Criação do documento e introdução | Heron Rodrigues |
+|18/02/2021| 0.1 | Adição da P1 | Heron Rodrigues |
 
 </br>
 
