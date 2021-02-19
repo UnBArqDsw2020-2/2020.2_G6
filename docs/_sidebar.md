@@ -22,7 +22,7 @@
     * Técnicas
       * [Brainstorming](/pages/base/elicitation/brainstorming.md)
       * [Personas](/pages/base/elicitation/persona.md)
-      * [Introspecção](/pages/)
+      * [Introspecção](/pages/base/elicitation/introspeccao.md)
       * [Storytelling](/pages/)
       * [Questionário](/pages/)
     * Priorização
