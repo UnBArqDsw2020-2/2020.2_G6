@@ -23,7 +23,7 @@
       * [Brainstorming](/pages/base/elicitation/brainstorming.md)
       * [Personas](/pages/base/elicitation/persona.md)
       * [Introspecção](/pages/)
-      * [Storyboard](/pages/elicitation/storyboard.md)
+      * [Storyboard](/pages/base/elicitation/storyboard.md)
       * [Questionário](/pages/)
     * Priorização
       * [MoSCoW](/pages/elicitations/moscow)
