@@ -4,7 +4,7 @@ Persona é um personagem fictício, baseado em dados de clientes reais, como com
 
 ## Metodologia
 
-O time decidiu criar personas baseadas em diferentes situações que podem ser abordadas pela aplicação. Para a geração das personas foi utilizado o programa [O Fantástico Gerador de Personas de Marketing](https://geradordepersonas.com.br). Estas personas poderão ser usadas como referências para outras técnicas como Introspecção e Storyboard.
+O time decidiu criar personas baseadas em diferentes situações que podem ser abordadas pela aplicação. Para a geração das personas foram utilizados os sites [O Fantástico Gerador de Personas de Marketing](https://geradordepersonas.com.br) e [Ferramenta Faça Minha Persona](https://br.hubspot.com/make-my-persona). Estas personas poderão ser usadas como referências para outras técnicas como Introspecção e Storyboard.
 
 
 ## P1
