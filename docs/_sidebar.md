@@ -5,6 +5,7 @@
 
 * Sprints
   - [Sprint 0](/pages/sprints/sprint0.md)
+  - [Sprint 1](/pages/sprints/sprint1.md)
 * Apresentações 
   - [Vídeos](/pages/presentations/presentations)
 
@@ -15,8 +16,6 @@
   * Pré-rastreabilidade
     * [Rich Picture](/pages/base/preTraceability/richPicture.md)
     * [5W2H](/pages/base/preTraceability/5w2h.md)
-    * [Mapa Mental](/pages/)
-    * [Análise de Risco](/pages/)
     * [Causa e Efeito](/pages/base/preTraceability/causaEfeito.md)
   * Elicitação de Requisitos
     * Técnicas
@@ -24,7 +23,6 @@
       * [Personas](/pages/base/elicitation/persona.md)
       * [Introspecção](/pages/base/elicitation/introspeccao.md)
       * [Storyboard](/pages/base/elicitation/storyboard.md)
-      * [Questionário](/pages/)
     * Priorização
       * [MoSCoW](/pages/base/elicitations/moscow.md)
 
