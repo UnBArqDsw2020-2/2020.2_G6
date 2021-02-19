@@ -13,7 +13,7 @@
 * Base
   * [Design Sprint](/pages/base/designsprint.md)
   * Pré-rastreabilidade
-    * [Rich Picture](/pages/)
+    * [Rich Picture](/pages/base/preTraceability/richPicture.md)
     * [5W2H](/pages/base/preTraceability/5w2h.md)
     * [Mapa Mental](/pages/)
     * [Análise de Risco](/pages/)

@@ -29,7 +29,7 @@ Pensando em facilitar de forma visual os dados existentes na [API da SpaceX](htt
       <img src="./assets/img/time/heron.jpg" alt="contributor">
     </div>
   </div>
-  <div class="members" align="center">
+  <div class="members">
     <div class="member">
       <p>Ingrid da Cruz Galvao</p>
       <img src="./assets/img/time/ingrid.jpg"alt="contributor">
@@ -47,8 +47,9 @@ Pensando em facilitar de forma visual os dados existentes na [API da SpaceX](htt
 
 <style>
   .members {
-    display: flex; 
-    flex-direction: row;
+    display: flex;
+    position: relative;
+    justify-content: center;
   }
 
   .member img {
@@ -59,18 +60,11 @@ Pensando em facilitar de forma visual os dados existentes na [API da SpaceX](htt
     border-radius: 200px;
     border-width: 1px; 
     border-color: rgba(0,0,0,0.3);
-    z-index: 3;
     transition: opacity 0.5s !important;
   }
 
   .member img:hover {
     opacity: 0.4;
-    z-index: 1;
-  }
-
-  .member p:hover  + img {
-    opacity: 0.4;
-    z-index: 1;
   }
   
  .member {
@@ -82,8 +76,7 @@ Pensando em facilitar de forma visual os dados existentes na [API da SpaceX](htt
  .member p {
     margin-top: 120px;
     position: absolute;
-    transform: translate(0, 4.8em);
-    z-index: 2;
+    opacity: 1;
     color: #fff;
     font-weight: bold;
     font-family: Montserrat;
