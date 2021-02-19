@@ -12,7 +12,7 @@
 
 * Base
   * [Design Sprint](/pages/base/designsprint.md)
-  * [Metodologia](/pages/base/meotodologia.md)
+  * [Metodologia](/pages/base/metodologia.md)
   * Pré-rastreabilidade
     * [Rich Picture](/pages/base/preTraceability/richPicture.md)
     * [5W2H](/pages/base/preTraceability/5w2h.md)
