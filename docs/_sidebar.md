@@ -23,15 +23,15 @@
       * [Brainstorming](/pages/base/elicitation/brainstorming.md)
       * [Personas](/pages/base/elicitation/persona.md)
       * [Introspecção](/pages/base/elicitation/introspeccao.md)
-      * [Storytelling](/pages/)
+      * [Storyboard](/pages/base/elicitation/storyboard.md)
       * [Questionário](/pages/)
     * Priorização
-      * [MoSCoW](/pages/elicitations/moscow)
+      * [MoSCoW](/pages/base/elicitations/moscow.md)
 
 ---
 
 * Políticas
-  - [Politica de contribuíção](/pages/policy/policy)
+  - [Politica de contribuíção](/pages/policy/policies.md)
 * Links
   * [Repositório](https://github.com/UnBArqDsw2020-2/2020.2_G6)
   * [Página do site](/pages/)
