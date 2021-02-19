@@ -20,7 +20,7 @@ Como esse método se baseia em definir que tipo de sistema eu iria querer se eu 
 |R08| Usuário deve ser capaz de visualizar informações sobre determinado veículo de lançamento
 |R09| A aplicação deve se comunicar com a API da SpaceX
 |R10| O usuário deve ser capaz de trocar sua senha quando desejado
-|R11| Em relação ao cadastro o CPF do usuário não pode se repetir
+|R11| Em relação ao cadastro o E-mail do usuário não pode se repetir
 |R12| O usuário pode editar suas informações de perfil quando desejado
 |R13| O usuário deve conseguir logar de seu perfil quando quiser
 |R14| O usuário deve conseguir deslogar de seu perfil quando quiser
