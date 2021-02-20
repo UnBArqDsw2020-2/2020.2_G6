@@ -15,7 +15,7 @@ Para o desenvolvimento do projeto, foi decidido que seriam utilizadas diferentes
 ### Scrum
 
 ***Figura 1: Esquema método Scrum.***
-![Metodo scrum](./img/scrum.png)
+![Metodo scrum](./img/scrum.png) <br>
 ***Fonte: https://www.desenvolvimentoagil.com.br/scrum/.***
 
 - **Sprint:** Na metodologia Scrum os projetos são divididos em ciclos que são chamados de Sprints. Esses ciclos correspondem ao tempo em que um conjunto de atividades deve ser executado.
@@ -47,10 +47,10 @@ As reuniões ficaram definidas de acordo com a metodologia adotada, acontecendo 
 |    |    |
 ---- |:--- 
 ![GitHub logo](./img/gitHub.png ':size=150') | [**GitHub:**](https://github.com/) Utilizado para controle de versão e backup de toda documentação e também desenvolvimento do projeto.
-![Telegram Logo](./img/telegram.png ':size=150') | [**Telegram:**](https://telegram.org/) Utilizado para comunicação entre os membros da equipe.
-![Google Drive logo](./img/drive.png ':size=150') |[**Google Drive:**](https://www.google.com.br/drive/apps.html) Utilizado para o compartilhamento de determinados documentos, permitindo a contribuição de todos os integrantes do grupo.
+![Telegram Logo](./img/telegram.jpg ':size=150') | [**Telegram:**](https://telegram.org/) Utilizado para comunicação entre os membros da equipe.
+![Google Drive logo](./img/drive.jpg ':size=150') |[**Google Drive:**](https://www.google.com.br/drive/apps.html) Utilizado para o compartilhamento de determinados documentos, permitindo a contribuição de todos os integrantes do grupo.
 ![Zenhub logo](./img/zenhub.png ':size=150') | [**Zenhub:**](https://www.zenhub.com/) Utilizado como KanBan do projeto, para gerenciamento das issues.
-![Discord logo](./img/discord.png ':size=150') | [**Discord:**](https://discord.com/) Ferramenta para a realização das reuniões de plannings, reviews, dailys e pareamentos.
+![Discord logo](./img/discords.jpg ':size=150') | [**Discord:**](https://discord.com/) Ferramenta para a realização das reuniões de plannings, reviews, dailys e pareamentos.
 ![Teams Logo](./img/teams.jpg ':size=150') | [**Microsoft Teams:**](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) É utilizado para ensaios e gravação das apresentações.
 
 ## Regras de contribuição

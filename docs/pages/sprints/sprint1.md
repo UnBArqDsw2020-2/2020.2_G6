@@ -1,4 +1,4 @@
-    # Sprint 1
+# Sprint 1
 
 Data: 17/02/2021
 
@@ -12,7 +12,7 @@ Data: 17/02/2021
 
 ## Sprint Review
 
-No segundo encontro o grupo se atualizou e adicionou na Wiki do projeto os artefatos já prontos, listando os que ainda estavam pendentes e quais ainda seriam viáveis para finalizar. Devido ao tempo e a desvantagem do grupo que já havia menos integrantes, tendo agora a dessitência de um dos membros algumas tarefas não foram possíveis para reencaixar na divisão em cima da hora dentro do prazo de entrega. A logo e o nome do projeto foram escolhidas e a gravação será feita no Teams na sexta às 19 horas.
+No segundo encontro o grupo se atualizou e adicionou na Wiki do projeto os artefatos já prontos, listando os que ainda estavam pendentes e quais ainda seriam viáveis para finalizar. Devido ao tempo e a desvantagem do grupo que já havia menos integrantes, tendo agora a desistência de um dos membros algumas tarefas não foram possíveis para reorganizar na divisão em cima da hora dentro do prazo de entrega. A logo e o nome do projeto foram escolhidas e a gravação será feita no Teams na sexta às 19 horas.
 
 ---
 

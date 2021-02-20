@@ -16,7 +16,7 @@ Data: 09/02/2021
 ## Sprint Review
 
 Nesse primeiro encontro os integrantes se apresentaram, falaram um pouco sobre como está a rotina de compromissos e sobre a disponibilidade de cada um ao longo do semestre. Ficou acordado que as reuniões para Sprint acontecerão majoritariamente às **19 horas nas terças-feiras**, podendo ocorrer outros encontros antes, caso necessário. <br> 
-As ideias sugeridas foram documentadas e moldadas para serem aproveitadas ao longo do projeto. Ao final iniciamos a metodologia [*Design Sprint*](Unb\2020.2_G6\docs\pages\base\designsprint.md) já com a execução de alguns artefatos (Brainstorming, Mapa Mental, Causa-Efeito, 5W2H, Rich Picture).
+As ideias sugeridas foram documentadas e moldadas para serem aproveitadas ao longo do projeto. Ao final iniciamos a metodologia [*Design Sprint*](Unb\2020.2_G6\docs\pages\base\designsprint.md) já com a execução de alguns artefatos (Brainstorming, Causa-Efeito, 5W2H, Rich Picture).
 
 ---
 

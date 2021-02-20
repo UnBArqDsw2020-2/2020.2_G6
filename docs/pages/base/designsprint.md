@@ -20,7 +20,7 @@ O *Design Sprint* normal é dividido em 5 fases em 5 dias. Nossa equipe pegou ap
 
 **Fase 1:** 09/02 - Nesse primeiro momento para realização do *Unpack*, a equipe através de uma reunião online feita no Discord, iniciou o debate para definir o escopo e para levantamento de ideias em relação ao projeto utilizando os métodos [5W2H](https://unbarqdsw2020-2.github.io/2020.2_G6/#/pages/base/preTraceability/5w2h) e [Brainstorming](https://unbarqdsw2020-2.github.io/2020.2_G6/#/pages/base/elicitation/brainstorming).<br><br>
 
-**Fase 2:** 09/02 - Em conjunto com o primeiro momento foi também desenvolvida a fase de *Sketch*. Já com as ideias mais claras para os integrantes, cada um ficou responsável por criar de acordo com sua concepção um [RichPicture](https://unbarqdsw2020-2.github.io/2020.2_G6/#/pages/base/preTraceability/richpicture) e em conjunto fomos elaborando um [Mapa mental](https://unbarqdsw2020-2.github.io/2020.2_G6/#/pages/base/preTraceability/mentalmap) para melhor entendimento, de forma visual, do nosso propósito.<br><br>
+**Fase 2:** 09/02 - Em conjunto com o primeiro momento foi também desenvolvida a fase de *Sketch*. Já com as ideias mais claras para os integrantes, cada um ficou responsável por criar de acordo com sua concepção um [RichPicture](https://unbarqdsw2020-2.github.io/2020.2_G6/#/pages/base/preTraceability/richpicture) e em conjunto fomos elaborando um [Causa-Efeito](https://unbarqdsw2020-2.github.io/2020.2_G6/#/pages/base/preTraceability/causaEfeito) para melhor entendimento, de forma visual, do nosso propósito.<br><br>
 
 **Fase 3:** 10/02 - No segundo dia de *Design Sprint*, a equipe em reunião estabeleceu as prioridades que devem ser tomadas para um melhor planejamento e sequência das atividades do projeto. <br><br>   
 
