@@ -7,7 +7,7 @@
   - [Sprint 0](/pages/sprints/sprint0.md)
   - [Sprint 1](/pages/sprints/sprint1.md)
 * Apresentações 
-  - [Vídeos](/pages/presentations/presentations)
+  - [Vídeos](/pages/presentations/presentations.md)
 
 ---
 
