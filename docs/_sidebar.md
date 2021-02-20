@@ -25,7 +25,7 @@
       * [Introspecção](/pages/base/elicitation/introspeccao.md)
       * [Storyboard](/pages/base/elicitation/storyboard.md)
     * Priorização
-      * [MoSCoW](/pages/base/elicitations/moscow.md)
+      * [MoSCoW](/pages/base/elicitation/moscow.md)
 
 ---
 
