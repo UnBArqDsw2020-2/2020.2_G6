@@ -27,24 +27,8 @@ Pensando em facilitar de forma visual os dados existentes na API da SpaceX, que 
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
 
-### Base
-<div>
-<!-- Apresentação Base 1-->
-<iframe width="896" height="504" style="display: block;
-border-style:none; margin: 0 auto;"
-src="https://www.youtube.com/embed/a5TF41zFHKc">
-</iframe>
-</div>
-
-### Metodologia
-<div>
-<!-- Apresentação Metodologia 1-->
-<iframe width="896" height="504" style="display: block;
-border-style:none; margin: 0 auto;"
-src="https://www.youtube.com/embed/KYMqzscSlbw">
-</iframe>
-</div>
-<br/>
+### [Vídeo sobre a Base](https://www.youtube.com/embed/a5TF41zFHKc)</br>
+### [Vídeo sobre a Metodologia](https://www.youtube.com/embed/KYMqzscSlbw)
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
