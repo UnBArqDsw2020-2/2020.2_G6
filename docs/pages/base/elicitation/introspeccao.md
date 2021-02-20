@@ -33,7 +33,7 @@ Como esse método se baseia em definir que tipo de sistema eu iria querer se eu 
 ## Requisitos Funcionais
 
 | Identificador |                                                   Requisito                                                   
-| :-----------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| :-----------: | :-----------------------------------------------------------------------------------------------------------: | 
 |     RF-01     |                       Usuário deve ser capaz de pesquisar lançamentos por ano
 |     RF-02     |                       Usuário deve ser capaz de compartilhar alguma informação quando achar interessante
 |     RF-03     |                       Usuário deve ser notificado com novidades, curiosidades e demais conteúdos
@@ -57,7 +57,7 @@ Como esse método se baseia em definir que tipo de sistema eu iria querer se eu 
 ## Requisitos Não Funcionais
 
 | Identificador |                                                   Requisito                                                   
-| :-----------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| :-----------: | :-----------------------------------------------------------------------------------------------------------: |
 |     RNF-16     |                              As páginas com dashboards deve mostrar as informações de forma clara e intuitiva                 
 |     RNF-18     |                              As informações disponíveis devem seguir o interesse do público alvo 
 |     RNF-20     |                              O conteúdo das páginas deve ser simples e objetivo         
