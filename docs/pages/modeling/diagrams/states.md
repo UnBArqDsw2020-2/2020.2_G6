@@ -8,9 +8,13 @@ Para o desenvolvimento dos diagrams foi utilizado o [Draw.io](https://app.diagra
 
 ## Diagramas
 
-### DE01
+### DE01 - Dashboard
 
+![DE01](../../../assets/img/states/de01.jpg)
 
+### DE02 - Autenticação
+
+![DE01](../../../assets/img/states/de02.jpg)
 
 ---
 
@@ -19,6 +23,7 @@ Para o desenvolvimento dos diagrams foi utilizado o [Draw.io](https://app.diagra
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:------------:|
 |28/02/2021| 0.1 | Criação do escopo do documento| Heron Rodrigues 
+|28/02/2021| 0.1 | Adição dos DE01 e DE02| Heron Rodrigues 
   
 </br>
 
