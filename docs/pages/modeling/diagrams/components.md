@@ -8,6 +8,9 @@ Para o desenvolvimento dos diagrama foi utilizada a ferramenta [Visual Paradigm]
 
 ## Diagramas
 
+### DC01
+
+![DC01](../../../assets/img/components/dc01.jpg)
 
 ---
 
@@ -15,7 +18,8 @@ Para o desenvolvimento dos diagrama foi utilizada a ferramenta [Visual Paradigm]
 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:------------:|
-|24/02/2021| 0.1 | Criação do escopo do documento| Heron Rodrigues 
+|27/02/2021| 0.1 | Criação do escopo do documento| Heron Rodrigues 
+|27/02/2021| 0.1 | Adição do DC01 | Heron Rodrigues 
   
 </br>
 
