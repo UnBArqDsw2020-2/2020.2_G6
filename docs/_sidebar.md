@@ -29,6 +29,7 @@
 
 * Modelagem
   * Diagramas
+    * [Diagrama de Classe](/pages/modeling/diagrams/classes.md)
     * [Diagrama de Estados](/pages/modeling/diagrams/states.md)
     * [Diagrama de Pacotes](/pages/modeling/diagrams/package.md)
 
