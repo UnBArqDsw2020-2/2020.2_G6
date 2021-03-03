@@ -27,6 +27,9 @@
     * Priorização
       * [MoSCoW](/pages/base/elicitation/moscow.md)
 
+* Modelagem
+  * Diagramas
+    * [Diagrama de Estados](/pages/modeling/diagrams/states.md)
 ---
 
 * Políticas
