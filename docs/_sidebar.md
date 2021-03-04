@@ -11,7 +11,7 @@
 
 ---
 
-* Base
+Base
   * [Design Sprint](/pages/base/designsprint.md)
   * [Metodologia](/pages/base/metodology/metodologia.md)
   * Pré-rastreabilidade
@@ -26,6 +26,10 @@
       * [Storyboard](/pages/base/elicitation/storyboard.md)
     * Priorização
       * [MoSCoW](/pages/base/elicitation/moscow.md)
+
+Modelagem
+  * Diagramas
+    * [Diagrama de Estados](/pages/modeling/diagrams/states.md)
 
 ---
 
