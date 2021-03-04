@@ -4,7 +4,7 @@ O Diagrama de Componentes tem o ojetivo de apresentar o comportamento e a intera
 
 ## Metodologia
 
-Para o desenvolvimento dos diagrama foi utilizada a ferramenta [Visual Paradigm](https://online.visual-paradigm.com/drive/#diagramlist:new=ComponentDiagram).
+Para o desenvolvimento dos diagrama foi utilizada a ferramenta [Visual Paradigm](https://online.visual-paradigm.com/drive/#diagramlist:new=ComponentDiagram). Artefatos usados como insumo para o desenvolvimento do documento: [Brainstorming](/pages/base/elicitation/brainstorming.md), [Introspecção](/pages/base/elicitation/introspeccao.md), [Storyboard](/pages/base/elicitation/storyboard.md).
 
 ## Diagramas
 

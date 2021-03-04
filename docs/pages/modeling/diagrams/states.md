@@ -4,7 +4,7 @@ O Diagrama de Estados tem como objetivo aprensentar as diferentes condições de
 
 ## Metodologia
 
-Para o desenvolvimento dos diagrams foi utilizado o [Draw.io](https://app.diagrams.net/).
+Para o desenvolvimento dos diagrams foi utilizado o [Draw.io](https://app.diagrams.net/). Artefatos usados como insumo para o desenvolvimento do documento: [Brainstorming](/pages/base/elicitation/brainstorming.md), [Introspecção](/pages/base/elicitation/introspeccao.md).
 
 ## Diagramas
 

@@ -30,6 +30,7 @@ Base
 Modelagem
   * Diagramas
     * [Diagrama de Estados](/pages/modeling/diagrams/states.md)
+    * [Diagrama de Componentes](/pages/modeling/diagrams/components.md)
 
 ---
 
