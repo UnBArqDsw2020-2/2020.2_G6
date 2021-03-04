@@ -30,7 +30,7 @@ Base
 Modelagem
   * Diagramas
     * [Diagrama de Estados](/pages/modeling/diagrams/states.md)
-
+  * [Cenários](/pages/modeling/scenario.md)
 ---
 
 * Políticas
