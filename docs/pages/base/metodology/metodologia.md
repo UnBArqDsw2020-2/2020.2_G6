@@ -28,7 +28,7 @@ Para o desenvolvimento do projeto, foi decidido que seriam utilizadas diferentes
 
 - **Backlog:** Listagem com todas as tarefas a serem realizadas, monitoradas através de issues.
 - **In Progress:** Tarefas que estão sendo desenvolvidas no momento.
-- **Review:** Tarefas que foram abertas para revisão de um dos membros da equipe através de um Pulo Request.
+- **Review:** Tarefas que foram abertas para revisão de um dos membros da equipe através de um Pull Request.
 - **Done:** As issues que já foram desenvolvidas e revisadas e tiveram seu PR aceito.
 
 ### XP
