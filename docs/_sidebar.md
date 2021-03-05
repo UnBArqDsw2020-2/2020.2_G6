@@ -5,32 +5,37 @@
 
 * Sprints
   - [Sprint 0](/pages/sprints/sprint0.md)
+  - [Sprint 1](/pages/sprints/sprint1.md)
 * Apresentações 
-  - [Vídeos](/pages/presentations/presentations)
+  - [Vídeos](/presentations/presentations.md)
 
 ---
 
-* Base
+Base
   * [Design Sprint](/pages/base/designsprint.md)
+  * [Metodologia](/pages/base/metodology/metodologia.md)
   * Pré-rastreabilidade
-    * [Rich Picture](/pages/)
+    * [Rich Picture](/pages/base/preTraceability/richPicture.md)
     * [5W2H](/pages/base/preTraceability/5w2h.md)
-    * [Mapa Mental](/pages/)
-    * [Análise de Risco](/pages/)
-    * [Causa e Efeito](/pages/)
+    * [Causa e Efeito](/pages/base/preTraceability/causaEfeito.md)
   * Elicitação de Requisitos
     * Técnicas
       * [Brainstorming](/pages/base/elicitation/brainstorming.md)
-      * [Introspecção](/pages/)
-      * [Storytelling](/pages/)
-      * [Questionário](/pages/)
+      * [Personas](/pages/base/elicitation/persona.md)
+      * [Introspecção](/pages/base/elicitation/introspeccao.md)
+      * [Storyboard](/pages/base/elicitation/storyboard.md)
     * Priorização
-      * [MoSCoW](/pages/elicitations/moscow)
+      * [MoSCoW](/pages/base/elicitation/moscow.md)
+
+Modelagem
+  * Diagramas
+    * [Diagrama de Estados](/pages/modeling/diagrams/states.md)
+    * [Diagrama de Componentes](/pages/modeling/diagrams/components.md)
 
 ---
 
 * Políticas
-  - [Politica de contribuíção](/pages/policy/policy)
+  - [Politica de contribuíção](/pages/policy/policies.md)
 * Links
   * [Repositório](https://github.com/UnBArqDsw2020-2/2020.2_G6)
   * [Página do site](/pages/)
