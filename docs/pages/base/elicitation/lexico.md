@@ -33,13 +33,19 @@ LO-6 | Issue | - Pode ser traduzido como um problema ou questão | - Se refere �
 LO-7 | Programador | - Pessoa que se compromete a desenvolver o software | - Resolver o problema inicial<br> - Planejar processos e etapas de produção<br> - Publicar o Produto | - Engenheiro de Software<br> - Desenvolvedor
 LO-8 | Protótipo | - Layout ou esquema inicial de inspiração<br> - Sistema modelo apenas com funcionalidades gráficas  | - Visualizar o produto final esperado<br> - Criado e aprovado pela equipe | - Esquema do software <br> - Esboço 
 LO-9 | Requisitos | - Podem ser especificações que descrevem como o software se comporta <br> - Podem ser especificações que influenciam no uso do software | - Resolver o problema inicial<br> - Influencia na aceitação da aplicação pelo usuário<br> - Podem ser classificados em funcionais e não funcionais | - Funcionalidades
+LO-10 | Veículos | - Objeto ou transporte que foi lançado para orbita | - Executar sua missão<br> - Obter informações em seu destino final | - Espaçonave<br> - Foguetes<br> - Veículo não tripulado
 
 
 ### Tipo estado
  
 ID  | Termo | Noção | Impacto | Sinônimos |
 :-: | :---: | :---- | :------ | :-------: |
-L01 |Estado| 
+LE-1 | Lançamento anterior | - Missões já executadas | - Veículos que já fizeram seu pouso<br> | - Evento encerrado
+LE-2 | Lançamento futuro | - Missões que vão ser executadas em breve | - Podem resultar em sucesso ou falhas<br> - Trazem à Terra informações de acordo com seu objetivo | - Próximo evento
+LE-3 | Missões bem sucedidas | - Missões completas e finalizadas | - Atingiram sua meta com sucesso | - Sucesso
+LE-4 | Missões falhas | - Missões que sofreram algum imprevisto durante a execução | - Não atingiram seu objetivo<br> - Problemas com a espaçonave | - Falha 
+LE-5 | Em desenvolvimento | - Produto que ainda está passando pelo processo de criação de suas funcionalidades | - Fase de execução do que foi planejado | - Em andamento<br> - Em homologação
+L0-6 | Em Produção | - Produto já publicado<br> - Pronto para uso | - Aplicação disponível para os usuários | - Publicado
 
 ## Versionamento
  
@@ -48,6 +54,7 @@ L01 |Estado|
 |17/02/2021| 0.1 | Introdução do documento | Matheus Amaral
 |18/02/2021| 0.2 | Adição dos termos do tipo verbo | Ailamar Alves
 |04/03/2021| 0.3 | Adição dos termos do tipo objeto | Ailamar Alves e Ingrid Galvão
+|06/03/2021| 0.4 | Adição dos termos do tipo estado | Matheus Amaral 
 
 ---
 
