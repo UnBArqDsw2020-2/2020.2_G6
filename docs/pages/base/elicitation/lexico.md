@@ -17,7 +17,7 @@ LV-3 | Editar Perfil | - Editar informações cadastradas<br> - Atualizar dados 
 LV-4 | Filtrar informações | - Filtrar pedidos de ajuda no mapa a partir da categoria de cada uma delas | - Separa as ajudas, que serão mostradas no mapa, por categorias | - Separar <br> - Selecionar <br> - Especificar
 LV-5 | Acessar lançamentos futuros | - Usuário navega na seção de futuros lançamentos da SpaceX | - Usuário possui acesso a lista de lançamentos que estão em andamento. | -
 LV-6 | Acessar lançamentos anteriores | - Usuário navega na seção de lançamentos já ocorridos da SpaceX | - Usuário possui acesso a lista de lançamentos que já ocorreram e dados informativos sobre os acontecimentos. | -
-LV-7 | Sair | - Desconectar da conta | - O usuário desconecta da conta em sua máquina. <br> - Usuário finaliza sua navegação no site. | - *Logout* <br> - Desconectar
+LV-7 | Sair | - Desconectar da conta | - O usuário desconecta da conta em sua máquina. <br> - Usuário finaliza sua navegação no site. | - *Logout* <br> -Desconectar
 
  
 ### Tipo objeto
@@ -32,7 +32,7 @@ LO-5 | Usuário | - Pessoa que usufrui do serviço<br> - Destinatário final | -
 LO-6 | Issue | - Pode ser traduzido como um problema ou questão | - Se refere à uma atividade a ser resolvida ou finalizada | - Problema<br> - Tarefa<br> - Questão
 LO-7 | Programador | - Pessoa que se compromete a desenvolver o software | - Resolver o problema inicial<br> - Planejar processos e etapas de produção<br> - Publicar o Produto | - Engenheiro de Software<br> - Desenvolvedor
 LO-8 | Protótipo | - Layout ou esquema inicial de inspiração<br> - Sistema modelo apenas com funcionalidades gráficas  | - Visualizar o produto final esperado<br> - Criado e aprovado pela equipe | - Esquema do software <br> - Esboço 
-LO-9 | Requisitos | - Podem ser especificações que descrevem como o software se comporta <br> - Podem ser especificações que influenciam no uso do software | - Resolver o problema inicial<br> - Influencia na aceitação da aplicação pelo usuário<br> - Podem ser classificados em funcionais e não funcionais | - Funcionalidades
+LO-9 | Requisitos | - Podem ser especificações que descrevem como o software se comporta <br> - Podem ser especificações que influenciam no uso do software | - Resolver o problema inicial<br> - Influencia na aceitação da aplicação pelo usuário<br> - Podem ser classificados em funcionais e não funcionais | -Funcionalidades
 LO-10 | Veículos | - Objeto ou transporte que foi lançado para orbita | - Executar sua missão<br> - Obter informações em seu destino final | - Espaçonave<br> - Foguetes<br> - Veículo não tripulado
 
 
@@ -45,7 +45,9 @@ LE-2 | Lançamento futuro | - Missões que vão ser executadas em breve | - Pode
 LE-3 | Missões bem sucedidas | - Missões completas e finalizadas | - Atingiram sua meta com sucesso | - Sucesso
 LE-4 | Missões falhas | - Missões que sofreram algum imprevisto durante a execução | - Não atingiram seu objetivo<br> - Problemas com a espaçonave | - Falha 
 LE-5 | Em desenvolvimento | - Produto que ainda está passando pelo processo de criação de suas funcionalidades | - Fase de execução do que foi planejado | - Em andamento<br> - Em homologação
-L0-6 | Em Produção | - Produto já publicado<br> - Pronto para uso | - Aplicação disponível para os usuários | - Publicado
+LE-6 | Em Produção | - Produto já publicado<br> - Pronto para uso | - Aplicação disponível para os usuários | - Publicado
+
+---
 
 ## Versionamento
  
@@ -56,7 +58,7 @@ L0-6 | Em Produção | - Produto já publicado<br> - Pronto para uso | - Aplica�
 |04/03/2021| 0.3 | Adição dos termos do tipo objeto | Ailamar Alves e Ingrid Galvão
 |06/03/2021| 0.4 | Adição dos termos do tipo estado | Matheus Amaral 
 
----
+<br> 
 
 ## Referências 
 
