@@ -10,7 +10,13 @@ De acordo com os dados que são disponibilizados na [SpaceXAPI](https://docs.spa
 
 ## Protótipo de Alta Fidelidade
 
+**P01 - Home Page**  
+<br>
 ![P01](../../assets/img/prototype/p01.jpg)
+
+**P02 - Veículos**  
+<br>
+![P02](../../assets/img/prototype/p02.jpg)
 
 ---
 
@@ -19,8 +25,9 @@ De acordo com os dados que são disponibilizados na [SpaceXAPI](https://docs.spa
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:------------:|
 |05/03/2021| 0.1 | Criação do escopo do documento| Heron Rodrigues 
-|05/03/2021| 0.2 | Criação e adição do P01| Ailamar Alves</br>Heron Rodrigues</br>Ingrid Soares</br>Matheus Amaral
-|06/03/2021| 0.3 | Ajuste e revisão do documento | Ailamar Alves
+|05/03/2021| 0.2 | Criação e adição do P01 | Ailamar Alves</br>Heron Rodrigues</br>Ingrid Soares</br>Matheus Amaral
+|06/03/2021| 0.3 | Adição do P02 | Heron Rodrigues
+|06/03/2021| 0.4 | Ajuste e revisão do documento | Ailamar Alves
   
 </br>
 
