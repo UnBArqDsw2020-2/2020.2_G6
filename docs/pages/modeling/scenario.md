@@ -43,7 +43,7 @@ Tópico | Descrição
 **Recurso**  | Computador ou telefone<br/>Acesso a internet<br/>Possuir e-mail compatível<br/>
 **Restrição** | Conta de e-mail ativa
 **Exceção**  | E-mail já cadastrado
-**Episódio** | Usuário não cadastrado entra no site.<br>Usuário seleciona criar conta.<br> Usuário adiciona informações pessoais (nome, idade)<br> Usuário preenche e-mail, senha e confirmar senha.<br> Usuário espera válidação para permitir seu acesso.<br> Usuário fica disponível para receber curiosidades e notificações de novidades além dos dashboards. 
+**Episódio** | Usuário não cadastrado entra no site.<br>Usuário seleciona criar conta.<br> Usuário adiciona informações pessoais (nome, idade)<br> Usuário preenche e-mail, senha e confirmar senha.<br> Usuário espera validação para permitir seu acesso.<br> Usuário fica disponível para receber curiosidades e notificações de novidades além dos dashboards. 
 <br/>
 
 ### C3 - Primeiro contato com os dashboards
@@ -60,11 +60,27 @@ Tópico | Descrição
 
 ### C4 - Recebendo notificações
 
+|      | Descrição
+:----- | :--------
+**Objetivo** | Receber notificação sobre algo novo adicionado ao site 
+**Contexto** | Local: onde o site for acessado<br/>Tempo: ao longo do dia<br/> Pré-condição: ter cadastro no site
+**Ator(es)** | Andreza e Marcos 
+**Recurso**  | Computador ou telefone com internet<br/> 
+**Exceção**  | Usuário não possuir cadastro no RocketX
+**Episódio** | Andreza e seu noivo têm muito interesse em assuntos sobre atividades espaciais, ela possui uma conta na plataforma.<br> Pelo menos uma vez na semana entra em seu perfil para saber das atualizações dos lançamentos.<br/> Em seu último login recebeu uma notificação sobre dois eventos que entraram no calendário da SpaceX.<br> Os casal anotou as datas para assistirem a transmissão dos dois eventos.
+<br/>
+
 ### C5 - Informação de um futuro lançamento 
 
-### C6 - Informações sobre veículos
-
-### C7 - Informações sobre missões
+|      | Descrição
+:----- | :--------
+**Objetivo** | Notificar aos usuários sobre novos lançamentos 
+**Contexto** | Local: em casa<br/>Tempo: a noite<br/> Pré-condição: acesso ao site
+**Ator(es)** | Usuários 
+**Recurso**  | Computador ou telefone com internet<br/> 
+**Restrição** | Interesse em novos eventos
+**Episódio** | Um novo evento de lançamento de uma das espaçonaves é anunciado pela empresa.<br/> Usuários que acessarem o site verão que existe esse novo evento disponível.
+<br/>
 
 ---
 
@@ -72,8 +88,9 @@ Tópico | Descrição
 
 |Data|Versão|Descrição|Autor|
 |:--:|:----:|:-------:|:---:|
-|03/03/2021| 0.1| Criação do escopo do documento| Ailamar Alves Guimarães|
-|03/03/2021| 0.2| Adição dos cenários 1 a 3 | Ailamar Alves Guimarães|
+|03/03/2021| 0.1| Criação do escopo do documento| Ailamar Alves |
+|03/03/2021| 0.2| Adição dos cenários 1 a 3 | Ailamar Alves |
+|06/03/2021| 0.3| Adição dos cenários 4 e 5 | Ailamar Alves |
 
 <br>
 
