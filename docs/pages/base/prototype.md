@@ -10,6 +10,8 @@ Com base nos dados que estão disponibilizados na [SpaceXAPI](https://docs.space
 
 ## Protótipo de Alta Fidelidade
 
+![P01](../../assets/img/prototype/p01.jpg)
+
 ---
 
 ## Versionamento
@@ -17,6 +19,7 @@ Com base nos dados que estão disponibilizados na [SpaceXAPI](https://docs.space
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:------------:|
 |05/03/2021| 0.1 | Criação do escopo do documento| Heron Rodrigues 
+|05/03/2021| 0.1 | Adição do P01| Ailamar Alves</br>Heron Rodrigues</br>Ingrid Soares</br>Matheus Amaral
   
 </br>
 
