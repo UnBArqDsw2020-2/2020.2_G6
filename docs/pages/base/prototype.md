@@ -12,6 +12,8 @@ Com base nos dados que estão disponibilizados na [SpaceXAPI](https://docs.space
 
 ![P01](../../assets/img/prototype/p01.jpg)
 
+![P01](../../assets/img/prototype/p02.jpg)
+
 ---
 
 ## Versionamento
@@ -20,6 +22,7 @@ Com base nos dados que estão disponibilizados na [SpaceXAPI](https://docs.space
 |:--------:|:---:|:-------------------:|:------------:|
 |05/03/2021| 0.1 | Criação do escopo do documento| Heron Rodrigues 
 |05/03/2021| 0.1 | Adição do P01| Ailamar Alves</br>Heron Rodrigues</br>Ingrid Soares</br>Matheus Amaral
+|06/03/2021| 0.1 | Adição do P01| Heron Rodrigues
   
 </br>
 
