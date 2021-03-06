@@ -7,13 +7,14 @@ Esse diagrama representa a estrutura e relações das classes que servem de mode
 
 Para o desenvolvimento dos esquemas o grupo optou por utilizar as ferramentas do aplicativo [Draw.io](https://app.diagrams.net/) por já possuir os métodos e design padrão das representações de cada diagrama.  
 As UML's de classe, por ser um diagrama essencial e mais complexo, serão feitas com a contribuição da perspectiva de mais de um integrante para que juntando as ideias possa se chegar a um esquema principal, sempre podendo haver novas versões caso necessário.  
-Esses foram feitos baseados em funcionalidades estabelecidas para o projeto, como listadas no [Rich Picture](https://unbarqdsw2020-2.github.io/2020.2_G6_RocketX/#/pages/base/preTraceability/richPicture) e com base nos [Requisitos](https://unbarqdsw2020-2.github.io/2020.2_G6_RocketX/#/pages/base/elicitation/introspeccao) levantados. 
+Esses foram feitos baseados em funcionalidades estabelecidas para o projeto, como listadas no [Rich Picture](https://unbarqdsw2020-2.github.io/2020.2_G6_RocketX/#/pages/base/preTraceability/richPicture), [Protótipo](../../base.prototype.md) e com base nos [Requisitos](https://unbarqdsw2020-2.github.io/2020.2_G6_RocketX/#/pages/base/elicitation/introspeccao) levantados. 
 
 ## Diagramas
 
 ### DC01
 
 ![Diagrama de Classe 01](../assets/classe.png)
+
 
 ---
 
@@ -24,6 +25,7 @@ Esses foram feitos baseados em funcionalidades estabelecidas para o projeto, com
 |24/02/2021| 0.1 | Criação do escopo do documento| Ailamar Alves 
 |27/02/2021| 0.2 | Adição de introdução e metodologia | Ailamar Alves 
 |03/02/2021| 0.3 | Desenvolvimento e adição da versão DC01 | Ailamar Alves e Matheus Amaral
+|06/03/2021| 0.4 | Ajuste e revisão do documento | Heron Rodrigues
   
 </br>
 
