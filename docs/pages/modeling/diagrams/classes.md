@@ -29,6 +29,7 @@ Esses foram feitos baseados em funcionalidades estabelecidas para o projeto, com
 |27/02/2021| 0.2 | Adição de introdução e metodologia | Ailamar Alves 
 |03/02/2021| 0.3 | Desenvolvimento e adição da versão DC01 | Ailamar Alves e Matheus Amaral
 |06/03/2021| 0.4 | Ajuste e revisão do documento | Heron Rodrigues
+|06/03/2021| 0.4 | Adição do DC02 | Heron Rodrigues
   
 </br>
 
