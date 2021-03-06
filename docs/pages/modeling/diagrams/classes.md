@@ -15,6 +15,9 @@ Esses foram feitos baseados em funcionalidades estabelecidas para o projeto, com
 
 ![Diagrama de Classe 01](../assets/classe.png)
 
+### DC02
+
+![Diagrama de Classe 02](../../../assets/img/classes/dc02.jpg)
 
 ---
 
