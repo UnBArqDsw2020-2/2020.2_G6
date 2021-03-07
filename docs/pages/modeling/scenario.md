@@ -82,6 +82,31 @@ Tópico | Descrição
 **Episódio** | Um novo evento de lançamento de uma das espaçonaves é anunciado pela empresa.<br/> Usuários que acessarem o site verão que existe esse novo evento disponível.
 <br/>
 
+### C6 - Informações sobre foguetes
+
+|      | Descrição
+:----- | :--------
+**Objetivo** | Descrever características do veículo 
+**Contexto** | Local: acesso ao site<br/>Tempo: ao longo do dia<br/> Pré-condição: ter tempo livre
+**Ator(es)** | Usuários 
+**Recurso**  | Computador ou telefone com internet<br/> 
+**Restrição** | Assuntos técnicos do foguete
+**Episódio** | Na página de veículos existe os vários tipos de naves da empresa.<br/> O usuário tem acesso ao nome, custo de produção e dimensões da espaçonave.<br/> Outras informações podem ser acessadas quando selecionado o veículo específico.
+<br/>
+
+### C7 - Informações sobre missões
+
+|      | Descrição
+:----- | :--------
+**Objetivo** | Informar ao usuário uma breve descrição sobre a missão 
+**Contexto** | Local: em casa<br/>Tempo: a noite<br/> Pré-condição: interesse nos eventos
+**Ator(es)** | Usuário frequente 
+**Recurso**  | Computador ou telefone com internet<br/> 
+**Restrição** | Interesse no objetivo dos eventos
+**Exceção**  | Não conhecer termos técnicos da área
+**Episódio** | As missões possuem uma meta a serem alcançadas.<br/> Para atingirem o objetivo existe um planejamento a ser seguido.<br/> A parte de missões informa ao usuário dados sobre como foi o andamento, destino, se houve sucesso ou falha no evento, entre outros.
+<br/>
+
 ---
 
 ### Versionamento
@@ -91,6 +116,7 @@ Tópico | Descrição
 |03/03/2021| 0.1| Criação do escopo do documento| Ailamar Alves |
 |03/03/2021| 0.2| Adição dos cenários 1 a 3 | Ailamar Alves |
 |06/03/2021| 0.3| Adição dos cenários 4 e 5 | Ailamar Alves |
+|06/03/2021| 0.4| Adição dos cenários 6 e 7 | Matheus Amaral |
 
 <br>
 
