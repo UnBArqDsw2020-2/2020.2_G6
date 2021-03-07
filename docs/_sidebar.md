@@ -33,6 +33,7 @@ Modelagem
     * [Diagrama de Estados](/pages/modeling/diagrams/states.md)
     * [Diagrama de Componentes](/pages/modeling/diagrams/components.md)
     * [Diagrama de Pacotes](/pages/modeling/diagrams/package.md)
+  * [Léxicos](/pages/modeling/lexico.md)
 
 ---
 
