@@ -11,7 +11,7 @@ Cada termo levantado deve ser descrito com sua noção e impacto, sendo a noçã
  
 ID  | Termo | Noção | Impacto | Sinônimos |
 :-: | :---: | :---- | :------ | :-------- |
-LV-1 | Cadastrar | - Criar uma conta pessoal na plataforma | - Contato inicial do usuário com o a página. <br> - Após o cadastro o usuário terá acesso aos dados da página. | - Registrar-se <br> - *Sign Up* |
+LV-1 | Cadastrar | - Criar uma conta pessoal na plataforma | - Acesso a página e funcionalidades exclusivas para usuários cadastrados. | - Registrar-se <br> - *Sign Up* |
 LV-2 | Login | - Usuário fornece sua identificação de acesso | - Usuários já cadastrados utilizam *user* e senha. | - *Sign In*<br>- Entrar<br>- Logar
 LV-3 | Editar Perfil | - Editar informações cadastradas<br> - Atualizar dados | - Dados de contato e informações básicas do usuário podem ser alterados. | - Alterar dados <br>- Atualizar cadastro
 LV-4 | Filtrar informações | - Filtrar pedidos de ajuda no mapa a partir da categoria de cada uma delas | - Separa as ajudas, que serão mostradas no mapa, por categorias | - Separar <br> - Selecionar <br> - Especificar
@@ -57,6 +57,7 @@ LE-6 | Em Produção | - Produto já publicado<br> - Pronto para uso | - Aplica�
 |18/02/2021| 0.2 | Adição dos termos do tipo verbo | Ailamar Alves
 |04/03/2021| 0.3 | Adição dos termos do tipo objeto | Ailamar Alves e Ingrid Galvão
 |06/03/2021| 0.4 | Adição dos termos do tipo estado | Matheus Amaral 
+|07/03/2021| 0.5 | Ajuste e revisão do documento | Heron Rodrigues 
 
 <br> 
 
