@@ -14,6 +14,7 @@
 Base
   * [Design Sprint](/pages/base/designsprint.md)
   * [Metodologia](/pages/base/metodology/metodologia.md)
+  * [Protótipo](/pages/base/prototype.md)
   * Pré-rastreabilidade
     * [Rich Picture](/pages/base/preTraceability/richPicture.md)
     * [5W2H](/pages/base/preTraceability/5w2h.md)
@@ -30,7 +31,11 @@ Base
 Modelagem
   * Diagramas
     * [Diagrama de Estados](/pages/modeling/diagrams/states.md)
+    * [Diagrama de Componentes](/pages/modeling/diagrams/components.md)
+    * [Diagrama de Pacotes](/pages/modeling/diagrams/package.md)
   * [Cenários](/pages/modeling/scenario.md)
+  * [Léxicos](/pages/modeling/lexico.md)
+  
 ---
 
 * Políticas
