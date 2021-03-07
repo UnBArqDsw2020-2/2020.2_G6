@@ -18,6 +18,10 @@ De acordo com os dados que são disponibilizados na [SpaceXAPI](https://docs.spa
 <br>
 ![P02](../../assets/img/prototype/p02.jpg)
 
+**P02 - Página Detalhes do Veículo**  
+<br>
+![P03](../../assets/img/prototype/p03.jpg)
+
 ---
 
 ### Versionamento
@@ -28,6 +32,7 @@ De acordo com os dados que são disponibilizados na [SpaceXAPI](https://docs.spa
 |05/03/2021| 0.2 | Criação e adição do P01 | Ailamar Alves</br>Heron Rodrigues</br>Ingrid Soares</br>Matheus Amaral
 |06/03/2021| 0.3 | Adição do P02 | Heron Rodrigues
 |06/03/2021| 0.4 | Ajuste e revisão do documento | Ailamar Alves
+|07/03/2021| 0.5 | Adição do P03 | Heron Rodrigues
   
 </br>
 
