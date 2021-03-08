@@ -21,10 +21,6 @@ Pensando em facilitar de forma visual os dados existentes na [API da SpaceX](htt
       <img src="./assets/img/time/ailamar.jpg" alt="contributor">
     </div>
     <div class="member">
-      <p>Gabriel Dias</p>
-      <img src="./assets/img/time/gabriel.jpg" alt="contributor">
-    </div>
-    <div class="member">
       <p>Heron Rodrigues</p>
       <img src="./assets/img/time/heron.jpg" alt="contributor">
     </div>
