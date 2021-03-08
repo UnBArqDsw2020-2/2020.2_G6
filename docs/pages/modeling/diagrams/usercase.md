@@ -4,7 +4,7 @@ Por meio do diagrama de casos de uso é possivel permitir a visualização do qu
 
 ## Metodologia 
 
-Para o desenvolvimento dos esquemas o grupo em geral utilizou ferramentas do [Draw.io](https://app.diagrams.net/) por já possuir os métodos e design padrão das representações dos diagramas.  
+Para o desenvolvimento dos esquemas o grupo em geral utilizou ferramentas do [Draw.io](https://app.diagrams.net/) e do [Visual Paradigm](https://online.visual-paradigm.com/diagrams/solutions/free-visual-paradigm-online/) por já possuirem os métodos e design padrão das representações dos diagramas. 
 Os diagramas abaixo foram feitos com base em funcionalidades levantadas pela equipe na parte de Elicitação de requisitos.
 
 ## Diagramas 
@@ -14,6 +14,17 @@ Os diagramas abaixo foram feitos com base em funcionalidades levantadas pela equ
 
 ![UC01](../../../assets/img/modeling/usercase/AcessoDados.png)
 
+|   |Descrição|
+|:-:|:--------|
+|Versão|0.1|
+|Autor|Ingrid Soares|
+|Descrição| Visualização geral das funções entre administrador da API, administrador do dashboard e usuário final|
+|Atores| Administradores e usuários |
+|Pré-condições| Interesse em comum em acessar dados da SpaceX |
+|Fluxo Principal|- Administrador da API disponibiliza dados para administrador do dashboard que permite a visualização de conteúdo selecionado ao usuário final|
+|Fluxo Alternativo| Não há fluxos alternativos|
+|Fluxo de Exceções| Não há fluxos de exceções|
+|Pós Condições| Informações ficam disponibilizadas aos usuários da RocketX Board |
 <br>
 
 ### UC02 - Editar Perfil 
@@ -34,13 +45,31 @@ Os diagramas abaixo foram feitos com base em funcionalidades levantadas pela equ
 |Pós Condições| Suas informações editadas serão mantidas nos próximos acessos ao site |
 
 <br> 
+### UC03 - Login
+<br>
 
+![UC03](../../../assets/img/modeling/usercase/usercaselogin.png)
+
+|   |Descrição|
+|:-:|:--------|
+|Versão|0.1|
+|Autor|Ailamar Alves|
+|Descrição| Poder realizar login|
+|Atores| Usuários |
+|Pré-condições| O usuário deve possuir cadastro |
+|Fluxo Principal|- Com login efetuado, editar informações pessoais e visualizar informações sobre a SpaceX|
+|Fluxo Alternativo| Não há fluxos alternativos|
+|Fluxo de Exceções| Não há fluxos de exceções|
+|Pós Condições| Ações realizadas, como edição de perfil ou adição de conteúdo à conta, como favoritar evento, ficam salvas na conta do usuário |
+
+<br>
 ## Rastreabilidade
 
 | ID | Rastro |
 |:--:| :----- |
 UC01 | -
 UC02 | [Léxico LV-3 - Editar Perfil](https://unbarqdsw2020-2.github.io/2020.2_G6_RocketX/#/pages/modeling/lexico?id=tipo-verbo) |
+UC03 | [Léxico LV-2 - Login](https://unbarqdsw2020-2.github.io/2020.2_G6_RocketX/#/pages/modeling/lexico?id=tipo-verbo) |
 <br>
 
 ---
@@ -52,7 +81,7 @@ UC02 | [Léxico LV-3 - Editar Perfil](https://unbarqdsw2020-2.github.io/2020.2_G
 | 02/03/2021 | 0.1 | Adicionando introdução de diagrama de casos de uso  | Ingrid Soares ([Ingrid](https://github.com/ingrdst"))
 | 02/03/2021| 0.1 | Adicionando diagrama de casos de uso do cliente | Ingrid Soares ([Ingrid](https://github.com/ingrdst"))
 | 04/03/2021| 0.2 | Adição diagrama UC02 | Ailamar Alves 
-  
+| 05/03/2021| 0.2 | Adição diagrama UC03 | Ingrid Soares
 </br>
 
 ### Referências
