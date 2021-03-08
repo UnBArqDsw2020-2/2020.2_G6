@@ -28,6 +28,5 @@ Foram feitos diagramas de sequência a iteração das funcionalidades principais
 
 ### Referências
 
-- UML Package Diagrams Overview. Disponível em: <https://www.uml-diagrams.org/package-diagrams-overview.html>. Acesso em: fev 
-2021.
-- Aula - Modelagem UML Estática. Milene Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/639883/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Modelagem%20UML%20Est%C3%A1tica%20-%20Profa.%20Milene.pdf> Acesso em: fev 2021.
+- Sequence Diagrams. Disponível em: https://www.uml-diagrams.org/sequence-diagrams.html. Último acesso em 08/03/2021.
+- Aula - Modelagem UML Dinâmica. Milene Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/639884/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Modelagem%20UML%20Din%C3%A2mica%20-%20Profa.%20Milene.pdf> Acesso em: 08/03/2021.
