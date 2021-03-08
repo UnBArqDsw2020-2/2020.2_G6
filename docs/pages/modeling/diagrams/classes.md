@@ -11,20 +11,24 @@ Esses foram feitos baseados em funcionalidades estabelecidas para o projeto, com
 
 ## Diagramas
 
-### DC01
+### DC01  
+<br>
 
 ![Diagrama de Classe 01](../assets/classe.png)
 
-### DC02
+### DC02  
+<br>
 
 ![Diagrama de Classe 02](../../../assets/img/classes/dc02.jpg)
+
+<br>
 
 ---
 
 ## Versionamento
 
-|Data|Versão|Descrição|Autor|
-|:--------:|:---:|:-------------------:|:------------:|
+| Data | Versão | Descrição | Autor |
+|:----:|:------:|:---------:|:-----:|
 |24/02/2021| 0.1 | Criação do escopo do documento| Ailamar Alves 
 |27/02/2021| 0.2 | Adição de introdução e metodologia | Ailamar Alves 
 |03/02/2021| 0.3 | Desenvolvimento e adição da versão DC01 | Ailamar Alves e Matheus Amaral
