@@ -13,13 +13,13 @@ A partir de algumas tarefas requeridas para nosso projeto, foram feitas as vers�
  
 * **Visualizar o Dashboard**
  
-![Diagrama de Comunicação 01](../assets/comunication/comunication1.png)
+![Diagrama de Comunicação 01](../assets/communication/communication1.png)
  
 ### DC02
  
 * **Fazer o Login de Usuário**
  
-![Diagrama de Comunicação 02](../assets/comunication/comunication2.png)
+![Diagrama de Comunicação 02](../assets/communication/communication2.png)
 ---
  
 ## Versionamento
@@ -34,7 +34,5 @@ A partir de algumas tarefas requeridas para nosso projeto, foram feitas as vers�
  
 ### Referências
  
-- UML Package Diagrams Overview. Disponível em: <https://www.uml-diagrams.org/package-diagrams-overview.html>. Acesso em: fev 
-2021.
-- Aula - Modelagem UML Estática. Milene Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/639883/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Modelagem%20UML%20Est%C3%A1tica%20-%20Profa.%20Milene.pdf> Acesso em: fev 2021.
-
+Communication Diagrams. Disponível em: https://www.uml-diagrams.org/communication-diagrams.html. Acesso em: 08/03/2021.
+- Aula - Modelagem UML Dinâmica. Milene Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/639884/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Modelagem%20UML%20Din%C3%A2mica%20-%20Profa.%20Milene.pdf> Acesso em: 08/03/2021.
