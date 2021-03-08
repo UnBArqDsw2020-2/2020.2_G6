@@ -20,9 +20,9 @@ Foram feitos diagramas de sequência a iteração das funcionalidades principais
 
 |Data|Versão|Descrição|Autor|
 |:--------:|:---:|:-------------------:|:------------:|
-|24/02/2021| 0.1 | Criação do escopo do documento| Matheus Amaral
-|27/02/2021| 0.2 | Adição de introdução e metodologia | Matheus Amaral
-|27/02/2021| 0.3 | Adição dos diagramas DS01 e DS02 | Ailamar Alves e Matheus Amaral
+|07/03/2021| 0.1 | Criação do escopo do documento| Matheus Amaral
+|07/03/2021| 0.2 | Adição de introdução e metodologia | Matheus Amaral
+|08/03/2021| 0.3 | Adição dos diagramas DS01 e DS02 | Ailamar Alves e Matheus Amaral
   
 </br>
 
