@@ -32,6 +32,7 @@ Modelagem
   * Diagramas
     * [Diagrama de Classe](/pages/modeling/diagrams/classes.md)
     * [Diagrama de Estados](/pages/modeling/diagrams/states.md)
+    * [Diagrama de Comunicação](/pages/modeling/diagrams/communication.md)
     * [Diagrama de Componentes](/pages/modeling/diagrams/components.md)
     * [Diagrama de Atividades](/pages/modeling/diagrams/activity.md)
     * [Diagrama de Pacotes](/pages/modeling/diagrams/package.md)
