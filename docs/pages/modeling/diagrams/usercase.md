@@ -63,6 +63,7 @@ Os diagramas abaixo foram feitos com base em funcionalidades levantadas pela equ
 |Pós Condições| Ações realizadas, como edição de perfil ou adição de conteúdo à conta, como favoritar evento, ficam salvas na conta do usuário |
 
 <br>
+
 ## Rastreabilidade
 
 | ID | Rastro |
