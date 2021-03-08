@@ -57,6 +57,5 @@ UC02 | [Léxico LV-3 - Editar Perfil](https://unbarqdsw2020-2.github.io/2020.2_G
 
 ### Referências
 
-- DevMedia — Diagrama de Casos de Uso. Disponível em: https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408. Acesso em: 28 de setembro. 2020.
-
+- Diagrama de Casos de Uso. Disponível em: <https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5>. Acesso em: mar 2021. 
 
