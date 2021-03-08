@@ -13,13 +13,13 @@ A partir de algumas tarefas requeridas para nosso projeto, foram feitas as vers�
  
 * **Visualizar o Dashboard**
  
-![Diagrama de Comunicação 01](../assets/communication/communication1.png)
+![Diagrama de Comunicação 01](../assets/communication/communication1.PNG)
  
 ### DC02
  
 * **Fazer o Login de Usuário**
  
-![Diagrama de Comunicação 02](../assets/communication/communication2.png)
+![Diagrama de Comunicação 02](../assets/communication/communication2.PNG)
 ---
  
 ## Versionamento
