@@ -75,7 +75,7 @@ AD03 | [Léxicos LV-4/5/6/7](https://unbarqdsw2020-2.github.io/2020.2_G6_RocketX
 | Data | Versão | Descrição | Autor |
 |:----:|:-----: |:---------:|:-----:|
 | 02/03/2021 | 0.1 | Adicionando Introdução de diagramas de atividade  | Ingrid Soares 
-| 02/03/2021| 0.2 | Adicionando diagramas| Ingrid Soares 
+| 02/03/2021| 0.2 | Adicionando diagramas AD1/AD2/AD3| Ingrid Soares 
 | 04/03/2021| 0.3 | Adição de descrição de diagramas, rastreabilidade e versionamento| Ingrid Soares 
 </br>
 
@@ -93,7 +93,9 @@ Glossário UML. Disponível em:
 https://homepages.dcc.ufmg.br/~amendes/GlossarioUML/glossario/conteudo/atividades/diagrama_de_atividades.htm
  . Acesso em: 01 de março. 2021.
 </li>
+<li>
 Exemplo de diagrama. Disponível em:
 https://homepages.dcc.ufmg.br/~amendes/GlossarioUML/glossario/conteudo/atividades/diagrama_de_atividades.htm
  . Acesso em: 01 de março. 2021.
+ </li>
 </ul>
