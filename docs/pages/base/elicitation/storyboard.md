@@ -16,6 +16,13 @@ Nessa história, o usuário já é cadastrado no site e recebe notificações so
 
 ![Recebendo notificações do site](../../../assets/img/storyboard/storyboard2.PNG)
 
+## Requisitos elicitados:
+
+|Descrição|Prioridade|
+|:-------------------:|:------------:|
+|Os gráficos devem possuir os dados mais relevantes possíveis| should 
+|As informações disponíveis devem seguir o interesse do público alvo| must 
+|Usuário deve ser notificado com novidades, curiosidades e demais conteúdos| should 
 
 ---
 

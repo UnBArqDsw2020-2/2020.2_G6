@@ -7,23 +7,34 @@ Persona é um personagem fictício, baseado em dados de clientes reais, como com
 O time decidiu criar personas baseadas em diferentes situações que podem ser abordadas pela aplicação. Para a geração das personas foram utilizados os sites [O Fantástico Gerador de Personas de Marketing](https://geradordepersonas.com.br) e [Ferramenta Faça Minha Persona](https://br.hubspot.com/make-my-persona). Estas personas poderão ser usadas como referências para outras técnicas como Introspecção e Storyboard.
 
 
-## P1
+### P1
 
 ![P1](../../../assets/img/persona/p1.png)
 
 </br>
 
-## P2
+### P2
 
 ![P2](../../../assets/img/persona/Persona2.0.png)
 ![P2](../../../assets/img/persona/Persona2.1.png)
 
 </br>
 
-## P3
+### P3
 
 ![P3](../../../assets/img/persona/Persona3.png)
 
+
+## Requisitos elicitados:
+
+|Descrição|Prioridade|
+|:-------------------:|:------------:|
+|Os gráficos devem possuir os dados mais relevantes possíveis| should 
+|As informações disponíveis devem seguir o interesse do público alvo| must 
+|Usuário deve ser notificado com novidades, curiosidades e demais conteúdos| should 
+|As páginas com dashboards deve mostrar as informações de forma clara e intuitiva| must 
+|O conteúdo das páginas deve ser simples e objetivo| should 
+|As informações disponíveis devem seguir o interesse do público alvo| must 
 
 ## Versionamento
 
