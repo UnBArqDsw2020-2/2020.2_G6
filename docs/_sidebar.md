@@ -31,6 +31,7 @@ Base
 Modelagem
   * Diagramas
     * [Diagrama de Estados](/pages/modeling/diagrams/states.md)
+    * [Diagrama de Comunicação](/pages/modeling/diagrams/communication.md)
     * [Diagrama de Componentes](/pages/modeling/diagrams/components.md)
     * [Diagrama de Pacotes](/pages/modeling/diagrams/package.md)
   * [Cenários](/pages/modeling/scenario.md)
