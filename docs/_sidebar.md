@@ -34,6 +34,7 @@ Modelagem
     * [Diagrama de Componentes](/pages/modeling/diagrams/components.md)
     * [Diagrama de Atividades](/pages/modeling/diagrams/activity.md)
     * [Diagrama de Pacotes](/pages/modeling/diagrams/package.md)
+    * [Diagrama de Caso de Uso](/pages/modeling/diagrams/usercase.md)
   * [Cenários](/pages/modeling/scenario.md)
   * [Léxicos](/pages/modeling/lexico.md)
   
