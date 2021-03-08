@@ -117,6 +117,7 @@ Tópico | Descrição
 |03/03/2021| 0.2| Adição dos cenários 1 a 3 | Ailamar Alves |
 |06/03/2021| 0.3| Adição dos cenários 4 e 5 | Ailamar Alves |
 |06/03/2021| 0.4| Adição dos cenários 6 e 7 | Matheus Amaral |
+|08/03/2021| 0.4| Revisão do documento | Heron Rodrigues |
 
 <br>
 
