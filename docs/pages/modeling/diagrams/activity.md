@@ -28,7 +28,9 @@ Os diagramas abaixo foram feitos com base em funcionalidades levantadas pela equ
 <br>
 
 ![2](../../../assets/img/modeling/activity/CriarUsuário.png)
+
 <br>
+
 |   |Descrição|
 |:-:|:--------|
 |Versão|0.1|
@@ -44,7 +46,9 @@ Os diagramas abaixo foram feitos com base em funcionalidades levantadas pela equ
 <br>
 
 ![3](../../../assets/img/modeling/activity/RecuperarSenha.png)
+
 <br>
+
 |   |Descrição|
 |:-:|:--------|
 |Versão|0.1|
@@ -59,8 +63,6 @@ Os diagramas abaixo foram feitos com base em funcionalidades levantadas pela equ
 
 <br>
 
-
- 
 ## Rastreabilidade
 
 | ID | Rastro |
@@ -84,6 +86,7 @@ AD03 | [Léxicos LV-4/5/6/7](https://unbarqdsw2020-2.github.io/2020.2_G6_RocketX
  <br>
  
 ## Referências
+
 <ul>
 <li>
 UML | Diagrama de atividades. Disponível em: https://www.ateomomento.com.br/uml-diagrama-de-atividades/
