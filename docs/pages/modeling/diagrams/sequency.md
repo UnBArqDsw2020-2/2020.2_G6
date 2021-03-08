@@ -12,7 +12,7 @@ Foram feitos diagramas de sequência a iteração das funcionalidades principais
 ### DS01
 * **Mostrar Dados de Lançamento**
 
-![Diagrama de Sequência 01](../assets/sequency/sequency.png)
+![Diagrama de Sequência 01](../assets/sequency/sequency.PNG)
 
 ---
 
