@@ -44,6 +44,7 @@ O time decidiu criar personas baseadas em diferentes situações que podem ser a
 |18/02/2021| 0.2 | Adição da P1 | Heron Rodrigues |
 |18/02/2021| 0.3 | Adição da P2 | Ingrid Soares |
 |18/02/2021| 0.4 | Adição da P3 | Ingrid Soares |
+|07/03/2021| 0.5 | Adição da tabela de requisitos elicitados | Heron Rodrigues |
 </br>
 
 ### Referências
