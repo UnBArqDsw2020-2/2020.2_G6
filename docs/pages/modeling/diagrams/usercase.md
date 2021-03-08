@@ -79,9 +79,9 @@ UC03 | [Léxico LV-2 - Login](https://unbarqdsw2020-2.github.io/2020.2_G6_Rocket
 | Data | Versão | Descrição | Autor |
 |:----:|:-----: |:---------:|:-----:|
 | 02/03/2021 | 0.1 | Adicionando introdução de diagrama de casos de uso  | Ingrid Soares ([Ingrid](https://github.com/ingrdst"))
-| 02/03/2021| 0.1 | Adicionando diagrama de casos de uso do cliente | Ingrid Soares ([Ingrid](https://github.com/ingrdst"))
-| 04/03/2021| 0.2 | Adição diagrama UC02 | Ailamar Alves 
-| 05/03/2021| 0.2 | Adição diagrama UC03 | Ingrid Soares
+| 02/03/2021| 0.2 | Adicionando diagrama de casos de uso do cliente | Ingrid Soares ([Ingrid](https://github.com/ingrdst"))
+| 04/03/2021| 0.3 | Adição diagrama UC02 | Ailamar Alves 
+| 05/03/2021| 0.4 | Adição diagrama UC03 | Ingrid Soares
 </br>
 
 ### Referências
