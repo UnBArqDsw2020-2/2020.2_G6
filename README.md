@@ -31,11 +31,14 @@ Pensando em facilitar de forma visual os dados existentes na API da SpaceX, que 
 ### [Vídeo sobre a Metodologia](https://youtu.be/KYMqzscSlbw)
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+***Figura 1: Diagrama de classe.***
+![Diagrama de classe](../../../assets/img/printscreen/Entrega2_1.png) <br>
+***Figura 1: Diagrama de casos de uso.***
+![Diagrama de casos de uso](../../../assets/img/printscreen/Entrega2_2.png) <br>
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione o(s)s vídeo(s) da Segunda Entrega.
-
+### [Diagramas dinâmicos](https://youtu.be/s97SNdBE_K0)</br>
+### [Diagramas estáticos](https://youtu.be/K8PRNA45TG8)</br>
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
 
