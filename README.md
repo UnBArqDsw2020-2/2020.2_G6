@@ -32,9 +32,10 @@ Pensando em facilitar de forma visual os dados existentes na API da SpaceX, que 
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 ***Figura 1: Diagrama de classe.***
-![Diagrama de classe](../../../assets/img/printscreen/Entrega2_1.png) <br>
+![Diagrama de classe](docs/assets/img/printscreen/Entrega2_1.png) <br>
 ***Figura 1: Diagrama de casos de uso.***
-![Diagrama de casos de uso](../../../assets/img/printscreen/Entrega2_2.png) <br>
+![Diagrama de casos de uso](docs/assets/img/printscreen/Entrega2_2.png) <br>
+
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
 ### [Diagramas dinâmicos](https://youtu.be/s97SNdBE_K0)</br>
