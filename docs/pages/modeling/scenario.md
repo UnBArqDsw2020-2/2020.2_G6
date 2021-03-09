@@ -8,6 +8,7 @@ A técnica funciona com a criação de narrativas que descrevem um episódio esp
 
 **Modelo base:**  
 <br/>
+
 Tópico | Descrição 
 ----: | :--------
 **Título**   | Nome breve para o cenário
