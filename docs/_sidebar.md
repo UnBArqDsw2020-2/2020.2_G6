@@ -54,8 +54,8 @@
 
 ---
 
-* Políticas
+* **Políticas**
   - [Politica de contribuíção](/pages/policy/policies.md)
-* Links
+* **Links**
   * [Repositório](https://github.com/UnBArqDsw2020-2/2020.2_G6)
   * [Página do site](/pages/)
