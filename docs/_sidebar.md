@@ -1,14 +1,14 @@
 <!-- docs/_sidebar.md -->
-* [Home](/README)
+* [**Home**](/README)
 
 ---
 
-* Sprints
+* **Sprints**
   - [Sprint 0](/pages/sprints/sprint0.md)
   - [Sprint 1](/pages/sprints/sprint1.md)
   - [Sprint 2](/pages/sprints/sprint2.md)
   - [Sprint 3](/pages/sprints/sprint3.md)
-* Apresentações 
+* **Apresentações** 
   - [Vídeos](/presentations/presentations.md)
 
 ---
