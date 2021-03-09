@@ -9,7 +9,7 @@ Abaixo segue as versões do que se é esperado pelo grupo para a organização d
 
 ## Diagramas
 
-### DC01
+### DP01
 
 ![Diagrama de Pacote 01](../assets/package.png)
 
