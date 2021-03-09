@@ -1,4 +1,4 @@
-# Diagrama de Pacotes
+# Diagrama de Sequência
 
 Um diagrama de sequência é um tipo de diagrama de iteração focado na sequência em que as troca de mensagens entre várias linhas de vida ocorre. Por ser um tipo de diagrama de iteração, de maneira geral, o objetivo dele é expressar o comportamento entre os elementos utilizando a notação UML.
 
