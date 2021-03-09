@@ -6,6 +6,7 @@
 * Sprints
   - [Sprint 0](/pages/sprints/sprint0.md)
   - [Sprint 1](/pages/sprints/sprint1.md)
+  - [Sprint 3](/pages/sprints/sprint3.md)
 * Apresentações 
   - [Vídeos](/presentations/presentations.md)
 
