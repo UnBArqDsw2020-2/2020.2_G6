@@ -22,10 +22,31 @@
 
 Padrões estudados e utilizados no projeto:
 
-- [GRASP](/pages/design_patterns/trainning-grasp.md)
-- [GoF Estrutural]()
-- [GoF Criacinal]()
-- [GoF Comportamental]()
+## Padrões GRASP (General Responsability Assignment Software Patterns)
+Esses consistem em uma série de princípios baseados em conceitos para atribuição de responsabilidades a classes e objetos na 
+construção de bons softwares usando programação orientada a objetos.
+
+### Tipos de GRASP
+
+* [Criador]()
+* [Especialista]()
+* [Alta Coesão]()
+* [Baixo Acoplamento]()
+* [Controladora ou Controller]()
+* [Polimorfismo]()
+* [Invenção Pura ou Fabricação Própria]()
+* [Indireção]()
+* [Variações Protegidas]()
+
+## Padrões GoF (Gang of Four)
+É também utilizado afim de garantir satisfação de se criar algo elegante, porém simples e de uma solução bastante reutilizável. 
+O objetivo dos padrões é codificar conhecimento existente de uma forma que possa ser reaplicado em contextos diferentes.
+
+### Tipos de GoF
+
+* [Criacional]() - Relacionados à criação de classes e objetos. Ligados ao processo de instanciação.
+* [Estrutural]() - Tratam da alteração da estrutura de um programa, e das associações entre classes e objetos. 
+* [Comportamental]() - Observam a maneira com que classes e objetos podem interagir.
 
 ---
 
@@ -35,6 +56,8 @@ Padrões estudados e utilizados no projeto:
 |:--:|:----:|:-------:|:---:|
 |22/03/2021| 0.1 | Criação do documento e resumo inicial | Ailamar Alves
 |29/03/2021| 0.2 | Complementando a explicação dos tópicos | Heron Rodrigues
+|30/03/2021| 0.3 | Adicionando Padrões de Projeto GOF  | Ingrid Soares 
+|30/03/2021| 0.4 | Adicionando Tipos GOF | Ingrid Soares 
 
 <br>
 
