@@ -48,6 +48,9 @@
     * **2.1.3 Modelagem Ágil**
 
 **3 Desenho de Software (Padrões de Projeto)**
+  * **Treinamentos**
+      * [Padrões de Projeto](/pages/design_patterns/patterns.md)
+      * [GRASPs](/pages/design_patterns/trainning-grasp.md)
   * **3.1 Módulo Padrões de Projeto GRASPs**
 
 
