@@ -92,4 +92,4 @@ Aplicado juntamente com o polimorfismo, através do uso de interface, e encapsul
 ### Referências 
  - AULA - GRASP – PARTE I. Milene Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/639891/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP%20BASE%20Parte%20I%20-%20Profa.%20Milene.pdf> Acesso em: mar, 2021.
 
- - http://www.ic.uff.br/~anselmo/cursos/ProjSoft/apresentacoes/Padroes%20de%20projeto.pdf
+ - Padrões de Projeto. Bruna Diirr. Disponível em: <http://www.ic.uff.br/~anselmo/cursos/ProjSoft/apresentacoes/Padroes%20de%20projeto.pdf>. Acesso em: mar, 2021.
