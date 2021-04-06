@@ -14,9 +14,15 @@ O Product Backlog consiste em hipóteses com possibilidade de acontecer. Portant
 
 https://docs.google.com/spreadsheets/d/1f2GvLEpW_vq9TJfNBbH74YJmuWYjVE-ScmIHDy7T6mM/edit?usp=sharing
 
+
+
+<img src="https://i.imgur.com/sLotG0r.png">
+
 ## Backlog do produto
 
 https://docs.google.com/spreadsheets/d/19BBp-BT6UmSEQDNT66O--2PgoyHJqI9u_o1FoYvocv0/edit?usp=sharing
+
+<img src="https://i.imgur.com/xvplITU.png">
 
 
 ### Versionamento
