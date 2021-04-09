@@ -9,7 +9,7 @@ Vale ressaltar também que o padrão foi adaptado para ser feito sem sobrescrita
     
  
 ## Singleton
-A princípio, o Singleton é um padrão onde uma classe só pode ter uma única instância, tendo que se regular o uso para isto. No caso tivemos duas ocorrências desse padrão, uma no uso do Sequelize e outra para o uso das controllers, contendo uma instância única para todas as atividades. No caso do JavaScript, ele funciona com uma fila imutável de atividades, onde foi feito o uso de funções assíncronas que fazem com que a próxima atividade da fila só possa ser iniciada após o término da atividade descrita com o `await`, ou a ocorrência de um timeout.
+A princípio, o Singleton é um padrão onde uma classe só pode ter uma única instância, tendo que se regular o uso para isto. No caso tivemos duas ocorrências desse padrão, uma no uso do Sequelize e outra para o uso das controllers, contendo uma instância única para todas as atividades. No caso do JavaScript, ele funciona com uma fila imutável de atividades, onde foi feito o uso de funções assíncronas que fazem com que a próxima atividade da fila só possa ser iniciada após o término da atividade descrita com o await, ou a ocorrência de um timeout.
  
 ## Prototype
 Para qualquer projeto em JavaScript o Prototype é o padrão de projeto mais importante, pois como já dito anteriormente, JavaScript é uma linguagem que a hierarquia é orientada por cadeias de protótipos. Então, toda abstração do uso de classes ou até mesmo objetos globais do JavaScript estão usando o princípio do Prototype juntamente com a complexidade do encadeamento deles. Portanto, por mais que não tenha sido implementado de fato, o uso do padrão Prototype é inato do JavaScript. Para evidenciar isso, trocamos a escrita de classes adicionada no ECMAScript 2015 pela escrita de cadeias de protótipos. 
@@ -44,3 +44,6 @@ Para qualquer projeto em JavaScript o Prototype é o padrão de projeto mais imp
  
 ## Referências
  
+* Sobre JavaScript - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
+* Slide: Aula - GOFS CRIACIONAIS, Profa. Milene Serrano
