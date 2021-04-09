@@ -16,7 +16,7 @@ Arquivo completo: [controllerCreator.js](https://github.com/UnBArqDsw2020-2/2020
 
 ## Controller
 
-Esse padrão foi utilizado para a implementação do acesso aos dados da aplicação, ou seja, estamos utilizando controllers para receber os dados das requisições. 
+Esse padrão foi utilizado para a implementação do acesso aos dados da aplicação, ou seja, estamos utilizando controllers para receber os dados das requisições feitas. 
 
 Exemplo de uma das aplicações: 
 
