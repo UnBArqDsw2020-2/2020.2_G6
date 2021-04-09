@@ -38,7 +38,8 @@ Para qualquer projeto em JavaScript o Prototype é o padrão de projeto mais imp
 |:----:|:-----: |:---------:|:-----:|
 | 08/03/2021 | 0.1 | Adicionando aplicação dos padrões criacionais  | Matheus Amaral  
 | 08/03/2021 | 0.2 | Adicionando sobre as adaptações para o JavaScript  | Matheus Amaral 
-| 08/03/2021 | 0.3 | Adicionando imagens dos padrões criacionais em código | Matheus Amaral 
+| 08/03/2021 | 0.3 | Adicionando imagens dos padrões criacionais em código | Matheus Amaral
+| 09/03/2021 | 0.4 | Revisão do documento | Heron Rodrigues
  
 </br>
  
