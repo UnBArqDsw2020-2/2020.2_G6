@@ -8,6 +8,10 @@
   - [Sprint 1](/pages/sprints/sprint1.md)
   - [Sprint 2](/pages/sprints/sprint2.md)
   - [Sprint 3](/pages/sprints/sprint3.md)
+  - [Sprint 4](/pages/sprints/sprint4.md)
+  - [Sprint 5](/pages/sprints/sprint5.md)
+  - [Sprint 6](/pages/sprints/sprint6.md)
+
 * **Apresentações** 
   - [Vídeos](/presentations/presentations.md)
 
@@ -48,8 +52,10 @@
     * **2.1.3 Modelagem Ágil**
 
 **3 Desenho de Software (Padrões de Projeto)**
+  * **Treinamentos**
+      * [Padrões de Projeto](/pages/design_patterns/patterns.md)
+      * [GRASPs](/pages/design_patterns/trainning-grasp.md)
   * **3.1 Módulo Padrões de Projeto GRASPs**
-
 
 
 ---
