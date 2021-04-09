@@ -12,6 +12,22 @@ O comportamento desse componente será baseado em uma variável _loading_ que ir
 
 ![](/docs/assets/img/designpattern/gof-behavioral/state.png)
 
+## Memento
+
+A biblioteca de navegação entre componentes [_react-router-dom_](https://reactrouter.com/) utiliza, em sua pilha de navegação, esse padrão comportamental. Sendo possível acessar o valor anterior da rota de navegação.
+
+[_Link para código no GitHub_](https://github.com/UnBArqDsw2020-2/2020.2_G6_RocketX_FrontEnd/blob/main/src/App.js)
+
+![](/docs/assets/img/designpattern/gof-behavioral/memento-1.png)
+
+[_Link para código no GitHub_](https://github.com/UnBArqDsw2020-2/2020.2_G6_RocketX_FrontEnd/blob/main/src/pages/Account/index.jsx)
+
+![](/docs/assets/img/designpattern/gof-behavioral/memento-2.png)
+
+[_Link para código no GitHub_](https://github.com/UnBArqDsw2020-2/2020.2_G6_RocketX_FrontEnd/blob/main/src/pages/Dashboard/index.jsx)
+
+![](/docs/assets/img/designpattern/gof-behavioral/memento-3.png)
+
 ---
 
 ### Versionamento
@@ -19,3 +35,4 @@ O comportamento desse componente será baseado em uma variável _loading_ que ir
 |    Data    | Versão |                   Descrição                   |      Autor      |
 | :--------: | :----: | :-------------------------------------------: | :-------------: |
 | 07/04/2021 |  0.1   | Criação do documento e adição do padrão State | Heron Rodrigues |
+| 09/04/2021 |  0.2   |           Adição do padrão Memento            | Heron Rodrigues |
