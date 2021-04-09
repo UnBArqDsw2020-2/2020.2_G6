@@ -59,3 +59,5 @@ O Object Pool é um padrão que consiste na pré-criação de uma coleção de o
 </br>
  
 ## Referências
+
+* Slide: Aula - GOFS CRIACIONAIS, Profa. Milene Serrano
