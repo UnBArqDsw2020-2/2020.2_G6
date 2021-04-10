@@ -60,7 +60,7 @@
 
 - **3.1 Módulo Padrões de Projeto GRASPs**
   - **Treinamentos**
-    - [GRASPs](/pages/design_patterns/trainning-grasp.md)
+    - [GRASPs](/pages/design_patterns/training-grasp.md)
   - **Aplicações**
     - [GRASPs](/pages/design_patterns/grasp/aplication.md)
 
