@@ -15,19 +15,19 @@ A princípio, o Singleton é um padrão onde uma classe só pode ter uma única 
 Para qualquer projeto em JavaScript o Prototype é o padrão de projeto mais importante, pois como já dito anteriormente, JavaScript é uma linguagem que a hierarquia é orientada por cadeias de protótipos. Então, toda abstração do uso de classes ou até mesmo objetos globais do JavaScript estão usando o princípio do Prototype juntamente com a complexidade do encadeamento deles. Portanto, por mais que não tenha sido implementado de fato, o uso do padrão Prototype é inato do JavaScript. Para evidenciar isso, trocamos a escrita de classes adicionada no ECMAScript 2015 pela escrita de cadeias de protótipos. 
  
 ### Imagem 1: Factory
-![Factory Method](/docs/assets/img/aplicacao-gof/factory.png)
+![Factory Method](../../../assets/img/aplicacao-gof/factory.png)
 
 <br>
 
 
 ### Imagem 2 Singleton e uso do Factory
-![Singleton](/docs/assets/img/aplicacao-gof/singleton.png)
+![Singleton](../../../assets/img/aplicacao-gof/singleton.png)
  
 <br>
 
 
 ### Imagem 3 Prototype e await do Singleton
-![Prototype](/docs/assets/img/aplicacao-gof/prototype.png)
+![Prototype](../../../assets/img/aplicacao-gof/prototype.png)
  
  
 <br>
