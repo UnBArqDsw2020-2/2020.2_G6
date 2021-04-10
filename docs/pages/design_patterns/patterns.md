@@ -15,10 +15,9 @@
 
 <br>
 
-[](/assets/img/padroes-design/charge-grasp.png)
-<p align="center">
-  Figura 1: Padrões de projeto (www.ic.uff.br)
-</p>
+![](/docs/assets/img/padroes-design/charge-grasp.png)
+
+Figura 1: Padrões de projeto (www.ic.uff.br)
 
 Padrões estudados e utilizados no projeto:
 
