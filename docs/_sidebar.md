@@ -62,6 +62,7 @@
   - **Treinamentos**
     - [GRASPs](/pages/design_patterns/trainning-grasp.md)
   - **Aplicações**
+    - [GRASPs](/pages/design_patterns/grasp/aplication.md)
 
 - **3.2 Módulo Padrões de Projeto GoFs**
   - **Treinamentos**
@@ -70,10 +71,11 @@
     - [GoF Comportamental](/pages/design_patterns/gof/training-gofbehavioral.md)  
   - **Aplicações**
     - [GoF Criacional](/pages/design_patterns/gof/aplication-gofcriacional.md)
+    - [GoF Estrutural](/pages/design_patterns/gof/aplicationestructural.md)
     - [GoF Comportamental](/pages/design_patterns/gof/application-gofbehavioral.md)
     
 - **3.3 Módulo Padrões de Projeto Extras**
-
+  - [Extras](/pages/extras/extras_m3.md)
 ---
 
 - **Políticas**
