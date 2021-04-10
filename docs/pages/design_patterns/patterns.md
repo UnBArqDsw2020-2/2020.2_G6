@@ -15,7 +15,7 @@
 
 <br>
 
-![](/docs/assets/img/padroes-design/charge-grasp.png)
+![](../../assets/img/padroes-design/charge-grasp.png)
 
 Figura 1: Padrões de projeto (www.ic.uff.br)
 
@@ -27,15 +27,15 @@ construção de bons softwares usando programação orientada a objetos.
 
 ### Tipos de GRASP
 
-* [Criador]()
-* [Especialista]()
-* [Alta Coesão]()
-* [Baixo Acoplamento]()
-* [Controladora ou Controller]()
-* [Polimorfismo]()
-* [Invenção Pura ou Fabricação Própria]()
-* [Indireção]()
-* [Variações Protegidas]()
+* Criador
+* Especialista
+* Alta Coesão
+* Baixo Acoplamento
+* Controladora ou Controller
+* Polimorfismo
+* Invenção Pura ou Fabricação Própria
+* Indireção
+* Variações Protegidas
 
 ## Padrões GoF (Gang of Four)
 É também utilizado afim de garantir satisfação de se criar algo elegante, porém simples e de uma solução bastante reutilizável. 
@@ -43,9 +43,9 @@ O objetivo dos padrões é codificar conhecimento existente de uma forma que pos
 
 ### Tipos de GoF
 
-* [Criacional]() - Relacionados à criação de classes e objetos. Ligados ao processo de instanciação.
-* [Estrutural]() - Tratam da alteração da estrutura de um programa, e das associações entre classes e objetos. 
-* [Comportamental]() - Observam a maneira com que classes e objetos podem interagir.
+* Criacional - Relacionados à criação de classes e objetos. Ligados ao processo de instanciação.
+* Estrutural - Tratam da alteração da estrutura de um programa, e das associações entre classes e objetos. 
+* Comportamental - Observam a maneira com que classes e objetos podem interagir.
 
 ---
 

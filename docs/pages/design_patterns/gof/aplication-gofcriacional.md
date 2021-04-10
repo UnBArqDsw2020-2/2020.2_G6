@@ -32,7 +32,8 @@ Para qualquer projeto em JavaScript o Prototype é o padrão de projeto mais imp
  
 <br>
  
-### Versionamento
+
+## Versionamento
  
 | Data | Versão | Descrição | Autor |
 |:----:|:-----: |:---------:|:-----:|
@@ -43,6 +44,7 @@ Para qualquer projeto em JavaScript o Prototype é o padrão de projeto mais imp
  
 </br>
  
+
 ## Referências
  
 * Sobre JavaScript - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript

@@ -54,7 +54,7 @@
     - [Diagrama de Estados](/pages/modeling/diagrams/states.md)
     - [Diagrama de Caso de Uso](/pages/modeling/diagrams/usercase.md)
   - **2.1.3 Modelagem Ágil**
-
+    - [Product Backlog](/pages/modeling/productbacklog.md)
 **3 Desenho de Software (Padrões de Projeto)**
   - [Padrões de Projeto](/pages/design_patterns/patterns.md)
 

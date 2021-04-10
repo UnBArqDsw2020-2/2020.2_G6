@@ -18,10 +18,8 @@ Pontos importantes que devem ser levados em conta pois nem sempre o raciocínio 
 Se preocupa em atribuir responsabilidades para a entidade mais especificas em um dado aspecto e não apenas de criação de instâncias: Quem é a melhor entidade para calcular algo? Quem é a melhor para ordenar algo? Quem é a melhor entidade para cadastrar algo?  
 Isso evita que o software tenha um forte acoplamento, a partir do momento em que os controladores teriam lógicas além do necessário, além de sua responsabilidade.
 
-<p align="center">
-  <img src="../../assets/img/padroes-design/grasp-especialista.png" alt="Charge" width="90%"/> <br>
-  Figura 1: Modelo conceitual parcial (www.ic.uff.br)
-</p>
+![](../../assets/img/padroes-design/grasp-especialista.png)
+Figura 1: Modelo conceitual parcial (www.ic.uff.br)
 
 **Em resumo:**
 
