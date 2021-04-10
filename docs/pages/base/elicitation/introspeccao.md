@@ -37,7 +37,7 @@ Como esse método se baseia em definir que tipo de sistema eu iria querer se eu 
 |     RF-01     |                       Usuário deve ser capaz de pesquisar lançamentos por ano
 |     RF-02     |                       Usuário deve ser capaz de compartilhar alguma informação quando achar interessante
 |     RF-03     |                       Usuário deve ser notificado com novidades, curiosidades e demais conteúdos
-|     RF-04     |                       Usuário deve ser notificado com novidades, curiosidades e demais conteúdos
+|     RF-04     |                       Usuário deve ser notificado quando aplicação for atualizada
 |     RF-05     |                       Usuário deve ser capaz de filtrar as informações por lançamentos que estão em andamento / ainda vão acontecer
 |     RF-06     |                       Usuário deve ser capaz de filtrar as informações por data
 |     RF-07     |                       Usuário deve ser capaz de filtrar as informações por base de lançamento

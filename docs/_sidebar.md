@@ -56,13 +56,23 @@
   - **2.1.3 Modelagem Ágil**
 
 **3 Desenho de Software (Padrões de Projeto)**
-
-- **Treinamentos**
   - [Padrões de Projeto](/pages/design_patterns/patterns.md)
-  - [GRASPs](/pages/design_patterns/trainning-grasp.md)
+
 - **3.1 Módulo Padrões de Projeto GRASPs**
-- **Aplicações**
-  - [GoF Comportamental](/pages/design_patterns/gof/application-gofbehavioral.md)
+  - **Treinamentos**
+    - [GRASPs](/pages/design_patterns/trainning-grasp.md)
+  - **Aplicações**
+
+- **3.2 Módulo Padrões de Projeto GoFs**
+  - **Treinamentos**
+    - [GoF Criacional](/pages/design_patterns/gof/training-gofcriacional.md)
+    - [GoF Estrutural](/pages/design_patterns/gof/training-gofestrutural.md)
+    - [GoF Comportamental](/pages/design_patterns/gof/training-gofbehavioral.md)  
+  - **Aplicações**
+    - [GoF Criacional](/pages/design_patterns/gof/aplication-gofcriacional.md)
+    - [GoF Comportamental](/pages/design_patterns/gof/application-gofbehavioral.md)
+    
+- **3.3 Módulo Padrões de Projeto Extras**
 
 ---
 
