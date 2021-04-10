@@ -15,8 +15,8 @@
 
 <br>
 
+[](/assets/img/padroes-design/charge-grasp.png)
 <p align="center">
-  <img src="https://github.com/UnBArqDsw2020-2/2020.2_G6_RocketX/blob/main/docs/assets/img/padroes-design/charge-grasp.png" alt="Charge" width="50%"/> <br>
   Figura 1: Padrões de projeto (www.ic.uff.br)
 </p>
 
