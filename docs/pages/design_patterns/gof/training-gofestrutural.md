@@ -6,37 +6,37 @@ Abaixo segue a lista dos tipos GoF Estruturais estudados pelo grupo.
 ## Decorator
 É um padrão de design estrutural que permite anexar novos comportamentos aos objetos, envelopando-os em objetos especiais que contêm comportamentos.
 
-![](/docs/assets/img/designpattern/decorator.png)
+![](./assets/gofestrutural/decorator.png)
 
 ## Proxy 
 É um padrão de design estrutural que permite fornecer um substituto ou espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você execute algo antes ou depois que a solicitação chega ao objeto original. 
 
-![](/docs/assets/img/designpattern/proxy.png)
+![](./assets/gofestrutural/proxy.png)
 
 ## Flyweight
 É um padrão de design estrutural que permite ajustar mais instâncias à quantidade disponível de RAM, compartilhando partes comuns do estado entre vários objetos, em vez de manter todos os dados em cada objeto. 
 
-![](/docs/assets/img/designpattern/flyweight.png)
+![](./assets/gofestrutural/flyweight.png)
 
 ## Facade
 É um padrão de design estrutural que fornece uma interface simplificada de um conjunto de classes para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes. 
 
-![](/docs/assets/img/designpattern/facade.png)
+![](./assets/gofestrutural/facade.png)
 
 ## Composite
 É um padrão de design estrutural que permite compor objetos em estruturas de árvores e trabalhar com essas estruturas como se fossem objetos individuais de modo uniforme.
 
-![](/docs/assets/img/designpattern/composite.png)
+![](./assets/gofestrutural/composite.png)
 
 ## Bridge
 É um padrão de design estrutural que permite dividir uma classe grande ou um conjunto de classes estreitamente relacionadas em duas hierarquias separadas — abstração e implementação — que podem ser desenvolvidas independentemente uma da outra, e que podem funcionar como uma ponte. 
 
-![](/docs/assets/img/designpattern/bridge.png)
+![](./assets/gofestrutural/bridge.png)
 
 ## Adapter
 É um padrão de design estrutural que permite a colaboração de objetos com interfaces incompatíveis, sendo possível envelopar um objeto e fornecer a ele uma interface diferente.
 
-![](/docs/assets/img/designpattern/adapter.png)
+![](./assets/gofestrutural/adapter.png)
 
 
 <br>
