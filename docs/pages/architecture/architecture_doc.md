@@ -46,6 +46,60 @@ As principais metas estabelecidas para o projeto foram:
 
 ## Visão de Casos de Uso
 
+## Especificação dos Casos de Uso
+### UC01 - Diagrama Geral
+<br>
+
+![UC01](https://github.com/UnBArqDsw2020-2/2020.2_G6_RocketX/raw/3021388aafe4dc69955c5908034e2a198eafcad7/docs/assets/img/modeling/usercase/AcessoDados.png)
+
+|   |Descrição|
+|:-:|:--------|
+|Versão|0.1|
+|Autor|Ingrid Soares|
+|Descrição| Visualização geral das funções entre administrador da API, administrador do dashboard e usuário final|
+|Atores| Administradores e usuários |
+|Pré-condições| Interesse em comum em acessar dados da SpaceX |
+|Fluxo Principal|- Administrador da API disponibiliza dados para administrador do dashboard que permite a visualização de conteúdo selecionado ao usuário final|
+|Fluxo Alternativo| Não há fluxos alternativos|
+|Fluxo de Exceções| Não há fluxos de exceções|
+|Pós Condições| Informações ficam disponibilizadas aos usuários da RocketX Board |
+<br>
+
+### UC02 - Editar Perfil 
+<br>
+
+![UC02](https://github.com/UnBArqDsw2020-2/2020.2_G6_RocketX/raw/3021388aafe4dc69955c5908034e2a198eafcad7/docs/assets/img/modeling/usercase/editarperfil.png)
+
+|   |Descrição|
+|:-:|:--------|
+|Versão|0.1|
+|Autor|Ailamar Alves|
+|Descrição| Poder editar suas informações de perfil|
+|Atores| Usuários |
+|Pré-condições| O usuário deve possuir uma conta no site |
+|Fluxo Principal|- Acesso  após logar na conta<br> - Editar nome, foto de perfil, informações básicas ou email|
+|Fluxo Alternativo| Não há fluxos alternativos|
+|Fluxo de Exceções| Não há fluxos de exceções|
+|Pós Condições| Suas informações editadas serão mantidas nos próximos acessos ao site |
+
+<br> 
+### UC03 - Login
+<br>
+
+![UC03](https://github.com/UnBArqDsw2020-2/2020.2_G6_RocketX/raw/3021388aafe4dc69955c5908034e2a198eafcad7/docs/assets/img/modeling/usercase/usercaselogin.png)
+
+|   |Descrição|
+|:-:|:--------|
+|Versão|0.1|
+|Autor|Ailamar Alves|
+|Descrição| Poder realizar login|
+|Atores| Usuários |
+|Pré-condições| O usuário deve possuir cadastro |
+|Fluxo Principal|- Com login efetuado, editar informações pessoais e visualizar informações sobre a SpaceX|
+|Fluxo Alternativo| Não há fluxos alternativos|
+|Fluxo de Exceções| Não há fluxos de exceções|
+|Pós Condições| Ações realizadas, como edição de perfil ou adição de conteúdo à conta, como favoritar evento, ficam salvas na conta do usuário |
+
 ## Visão Lógica
 
 A visão lógica tem como objetivo descrever como a organização conceitual do sistema está estruturado de maneira lógica. Para isso, podemos fazer uso de artefatos que demonstrem a estrutura, como os diagramas de classe, de pacote, de colaboração, de interação ou até mesmo de sequência dependendo do caso. De acordo com a complexidade do sistema, ou da necessidade de se explicar especifidades, pode-se usar vários desses documentos, o objetivo é ser o suficiente para compreensão do sistema para quem estiver lendo. No caso, usaremos os diagramas de pacote pois a estruturação do tem a simplicidade para ser explicado por simples diagrama de pacotes.
@@ -81,6 +135,7 @@ Nessa parte descrevemos os encadeamentos de controle e os encadeamentos separado
 | 20/04/2021 |  0.1   | Criação do documento e escopo inicial | Ailamar Alves |
 | ??/04/2021 |  0.2   | - | Heron |
 | 25/04/2021 |  0.3   | Adição da introdução e descrições do documento | Ailamar Alves |
+| 03/05/2021 |  0.4   | Adição da descrição de casos de uso | Ingrid Soares |
 
 <br>
 
@@ -89,3 +144,5 @@ Nessa parte descrevemos os encadeamentos de controle e os encadeamentos separado
 - Aula - Arquitetura&DAS - Parte II. Milene Serrano.Disponível em: <https://aprender3.unb.br/pluginfile.php/639902/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Arquitetura%20e%20DAS%20-%20Parte%20II%20-%20Profa.%20Milene.pdf> Acesso em: abril, 2021.
 
 - Artefato: Documento de Arquitetura de Software. Disponível em: <https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_software_architecture_document_C367485C.html> Acesso em: abril, 2021.
+
+- Engenharia de Software: Uma visão prática. Disponível em: <https://faculty.dca.fee.unicamp.br/gudwin/sites/faculty.dca.fee.unicamp.br.gudwin/files/ea975/ESUVP2.pdf> Acesso em: maio, 2021.
