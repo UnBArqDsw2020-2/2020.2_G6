@@ -93,9 +93,7 @@ As principais metas estabelecidas para o projeto foram:
 |Fluxo de Exceções| Não há fluxos de exceções|
 |Pós Condições| Suas informações editadas serão mantidas nos próximos acessos ao site |
 
-<br> 
 ### UC03 - Login
-<br>
 
 ![UC03](https://github.com/UnBArqDsw2020-2/2020.2_G6_RocketX/raw/3021388aafe4dc69955c5908034e2a198eafcad7/docs/assets/img/modeling/usercase/usercaselogin.png)
 
