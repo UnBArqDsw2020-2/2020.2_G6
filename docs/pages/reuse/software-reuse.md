@@ -33,13 +33,20 @@ Frameworks impõem um modelos de colaboração.
 - Estamos usando:
 
   - ReactJS;
+  - NodeJS;
 
 - **Hotspots**: São partes do framework que são projetados para serem genéricos podendo ser adaptada para a necessidade do usuário. Normalmente são representadas por classes abstratas, ou seja, necessita de um baixo nível de acoplamento e por isso tem grande aproximação com os design patterns.
 
   - Temos: O arquivo base.js que faz uso design pattern Decorator, sendo ele uma classe genérica de controllers, ou seja, a partir dele podem ser especificados mais controllers.
 
+![hotspot](../../assets/img/reuse/hot.png)
+
+
 - **Frozenspots**: Também conhecido como "core" do framework, definem a arquitetura geral de um sistema de software e por isso permanecem fixos como a base do framework.
+
   - Temos: Os serviços de uso do back-end do diretório routes definidos pelas rotas já especializadas, onde tem uma entrada esperada e uma saída esperada.
+
+![frozenspot](../../assets/img/reuse/frozen-service.png)
 
 ## 2. Biblioteca
 
