@@ -55,6 +55,7 @@
     - [Diagrama de Caso de Uso](/pages/modeling/diagrams/usercase.md)
   - **2.1.3 Modelagem Ágil**
     - [Product Backlog](/pages/modeling/productbacklog.md)
+    - 
 **3 Desenho de Software (Padrões de Projeto)**
   - [Padrões de Projeto](/pages/design_patterns/patterns.md)
 
@@ -76,6 +77,13 @@
     
 - **3.3 Módulo Padrões de Projeto Extras**
   - [Extras](/pages/extras/extras_m3.md)
+
+**4 Arquitetura e Reutilização de Software)**
+ - **4.1  Módulo Estilos e Padrões Arquiteturais
+  - **[Documento de Arquitetura de Software](/pages/architecture/architecture_doc.md)
+ - ** 4.2 Módulo Reutilização de Software **
+  - [Reutilização](/pages/reuse/software-reuse.md)
+  
 ---
 
 - **Políticas**
