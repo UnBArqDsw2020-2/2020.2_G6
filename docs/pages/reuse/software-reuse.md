@@ -102,6 +102,7 @@ Já o Diagrama de Componentes apresentar o comportamento e a interação das cla
 
 ---
 
+### Versionamento
 
 |    Data    | Versão |               Descrição               |      Autor      |
 | :--------: | :----: | :-----------------------------------: | :-------------: |
@@ -109,6 +110,8 @@ Já o Diagrama de Componentes apresentar o comportamento e a interação das cla
 | 03/05/2021 |  0.2   | Introdução e definição de Bibliotecas |  Ailamar Alves  |
 | 03/05/2021 |  0.3   |     Adição do tópico de serviços      | Heron Rodrigues |
 | 03/05/2021 |  0.4   |     Adição de componentes e diagrama  | Ingrid Soares   |
+| 03/05/2021 |  0.5   |     Adução de frozen e hot spots      | Matheus Amaral  |
+| 03/05/2021 |  1.0   |          Revisão do documento         | Matheus Amaral  |
 
 ### Referências
 
