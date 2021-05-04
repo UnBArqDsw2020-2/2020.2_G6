@@ -137,8 +137,6 @@ Nessa parte descrevemos os encadeamentos de controle e os encadeamentos separado
 
 ![](../../assets/img/components/dc01.jpg)
 
-## Visão de Dados
-
 ---
 
 ### Versionamento
@@ -148,7 +146,9 @@ Nessa parte descrevemos os encadeamentos de controle e os encadeamentos separado
 | 20/04/2021 |  0.1   |        Criação do documento e escopo inicial        | Ailamar Alves |
 | 25/04/2021 |  0.2   | Adição dos documentos de implantação e implemntação |     Heron     |
 | 25/04/2021 |  0.3   |   Adição da introdução e descrições do documento    | Ailamar Alves |
-| 03/05/2021 |  0.4   |         Adição da descrição de casos de uso         | Ingrid Soares |
+| 26/04/2021 |  0.4   |                Adição da visão lógica               | Matheus Amaral|
+| 03/05/2021 |  0.5   |         Adição da descrição de casos de uso         | Ingrid Soares |
+| 03/05/2021 |  1.0   |                Revisão do documento                 | Matheus Amaral|
 
 <br>
 
