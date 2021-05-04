@@ -15,6 +15,10 @@
 ## Sobre 
 Pensando em facilitar de forma visual os dados existentes na API da SpaceX, que é uma empresa norte americana de sistemas aeroespaciais e de serviços de transporte espacial sediada em Hawthorne, Califórnia, nosso time pensou em algo que permitisse aos interessados nos lançamentos e eventos da empresa, uma plataforma mais interessante visualmente com os dados distribuidos em um dashboard 
 
+**Repositório Back-end**: https://github.com/UnBArqDsw2020-2/2020.2_G6_RocketX_BackEnd
+
+**Repositório Front-end**: https://github.com/UnBArqDsw2020-2/2020.2_G6_RocketX_FrontEnd
+
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 ***Figura 1: Homepage.*** 
 <br>
