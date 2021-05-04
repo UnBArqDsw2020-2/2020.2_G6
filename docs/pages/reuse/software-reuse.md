@@ -66,11 +66,12 @@ Em relação ao nosso projeto, devido ao escopo não foram utilizadas biblioteca
 
 ### 5.1 Plug-in
 
-* Um plug-in tem como objetivo adcionar funcionalidades especificas para programas maiores que já tenham camadas de reutilização para poderem ser acoplados, adicionando um nivel de reutilização e extensibilidade para tal framework ou qualquer outro programa maior.
-
+* Um plug-in tem como objetivo adicionar funcionalidades específicas para programas maiores que já tenham camadas de reutilização para poderem ser acoplados, adicionando um nível de reutilização e extensibilidade para tal framework ou qualquer outro programa maior.
+ 
 ### 5.2 Linha de Produto
+ 
+* Uma linha ou família de produto faz uso de Engenharia de Domínio para se estabelecer e enriquecer um escopo sólido para o núcleo de artefatos, e planos de produção. Depois de estabelecer um escopo de um núcleo sólido, é feita a Engenharia de Aplicação, que vai aplicar especificações e derivações do núcleo definido em forma de produtos, retorno, novos artefatos e demais aplicações. Porém, o grande problema da linha de produto é a complexidade muito alta, a dificuldade de se estabelecer ideias totalmente coesas entre si e os gastos.
 
-* Uma linha ou família de produto faz uso de Engenharia de Domínio para se estabelecer e enriquecer um escopo sólido para o núcleo de artefatos, e planos de produção. Depois de estabelecer um escopo de um núcleo sólido, é feita a Engenharia de Aplicação, que vai aplicar especificações e derivações do nucleo definido em forma de produtos, retorno, novos artefatos e demais aplicaçòes. Porém, o grande problema da linha de produto é a complexidade muito alta, a dificuldade de se estabelecer ideias totalmente coesas entre sí e os gastos.
 
 ---
 
