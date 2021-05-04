@@ -1,8 +1,31 @@
-# REUTILIZAÇÃO
+# Reutilização 
+
+Como o próprio nome já diz, a reutilização se refere ao aproveitamento de algo já existente (soluções) para resolver problemas de mesma características.  
+No contexto da Engenharia de Software, esse reúso refere-se a criação de software a partir de componentes, ideias ou processos já existentes.
+
+É o processo de incorporar produtos existentes em um novo produto similar como código, testes, requisitos, etc.
+
+**Pontos positivos**
+- Maior produtividade;
+- Menor tempo de desenvolvimento e validação
+- Menor custo;
+- Qualidade dos produtos;
+- Manutenibilidade;
+- Uso de padrões resultam em menos erros.
+
+**Pontos negativos**
+- Compreender artefatos de "outros";
+- Qualidade dos artefatos;
+- Modificar artefatos;
+- Ferramentas de apoio para aprendizagem;
+- Aspectos legais e econômicos;
 
 ## 1. Framework
 
-* Um framework é ....
+“Um framework é uma coleção de classes abstratas e concretas, e uma interface entre elas, e um projeto para um subsistema” (WIRFS-BROCK E JOHNSON, 1990)
+
+Frameworks impõem um modelos de colaboração.  
+- Uma vez que a comunicação entre objetos está definida, o desenvolvedor não precisa saber quando chamar cada método. Isso é feito pelo Framework.
  
  - Estamos usando: 
     * ReactJS;
@@ -16,9 +39,16 @@
 
 ## 2. Biblioteca
 
-* Uma biblioteca é...
+Bibliotecas de Classe são conjunto de funcionalidades genéricas que são agrupadas em arquivos (classes) que podem ser usadas em qualquer programa de qualquer forma.  
+**Exemplo:** Biblioteca Math do Java - contém um monte de funcionalidades de cálculos - com acesso rapiso e prático.
 
- (acho que não temos nada que pode se tornar uma)
+Essas classem em termos gerais, podem ser disponibilizadas para reúso e importadas em diversas aplicações sendo compiladas juntamente com o restante do código.
+
+**Biblioteca de Classes X Framework**
+
+![biblioteca x framework](../../assets/img/reuse/bclassesxframework.png) 
+
+Em relação ao nosso projeto, devido ao escopo não foram utilizadas bibliotecas no desenvolvimento.
 
 ## 3. Serviços
 
@@ -48,9 +78,13 @@
 ## Versionamento
 
 |Data|Versão|Descrição|Autor|
-|:--------:|:---:|:-------------------:|:------------:|
+|:--:|:----:|:-------:|:---:|
 |03/05/2021| 0.1 | Criação do escopo do documento| Matheus Amaral 
-  
+|03/05/2021| 0.2 | Introdução e definição de Bibliotecas| Ailamar Alves
 </br>
 
 ### Referências
+
+- Aula - Reutilização e Framework. Milene Serrano.Disponível em: <https://aprender3.unb.br/pluginfile.php/639905/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Reutiliza%C3%A7%C3%A3o%20%20Framework%20-%20Profa.%20Milene.pdf> Acesso em: abril, 2021.
+
+- Reúso de Software. Thainá Mariani, 2016. Disponível em: <https://www.inf.ufpr.br/silvia/ES/reuso/reusoAl.pdf> Acesso em: maio, 2021.
