@@ -32,16 +32,15 @@
 
 (Procurar no Diagrama de Componentes) 
 
-## 5. Outros (não sei se a gente coloca. E se colocar, o que se a gente coloca biblioteca junto)
+## 5. Outros
 
 ### 5.1 Plug-in
 
-* um plugin é...
+* Um plug-in tem como objetivo adcionar funcionalidades especificas para programas maiores que já tenham camadas de reutilização para poderem ser acoplados, adicionando um nivel de reutilização e extensibilidade para tal framework ou qualquer outro programa maior.
 
 ### 5.2 Linha de Produto
 
-* uma linha de produto é...
-
+* Uma linha ou família de produto faz uso de Engenharia de Domínio para se estabelecer e enriquecer um escopo sólido para o núcleo de artefatos, e planos de produção. Depois de estabelecer um escopo de um núcleo sólido, é feita a Engenharia de Aplicação, que vai aplicar especificações e derivações do nucleo definido em forma de produtos, retorno, novos artefatos e demais aplicaçòes. Porém, o grande problema da linha de produto é a complexidade muito alta, a dificuldade de se estabelecer ideias totalmente coesas entre sí e os gastos.
 
 ---
 
