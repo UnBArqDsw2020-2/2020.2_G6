@@ -48,7 +48,7 @@ Essas classem em termos gerais, podem ser disponibilizadas para reúso e importa
 
 ![biblioteca x framework](../../assets/img/reuse/bclassesxframework.png) 
 
-Em relação ao nosso projeto, devido ao escopo não foram utilizadas bibliotecas no desenvolvimento.
+Em relação ao nosso projeto, todas as bibliotecas que utilizamos fazem parte do NodeJS e podem ser encontradas em node_modules, mesmo no caso de alguns frameworks do JavaScript, pois eles fazem uso de várias bibliotécas.
 
 ## 3. Serviços
 
