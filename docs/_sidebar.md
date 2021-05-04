@@ -78,11 +78,11 @@
 - **3.3 Módulo Padrões de Projeto Extras**
   - [Extras](/pages/extras/extras_m3.md)
 
-**4 Arquitetura e Reutilização de Software)**
- - **4.1  Módulo Estilos e Padrões Arquiteturais
-  - **[Documento de Arquitetura de Software](/pages/architecture/architecture_doc.md)
- - ** 4.2 Módulo Reutilização de Software **
-  - [Reutilização](/pages/reuse/software-reuse.md)
+**4 Arquitetura e Reutilização de Software**
+ - **4.1  Módulo Estilos e Padrões Arquiteturais**
+    - [Documento de Arquitetura de Software](/pages/architecture/architecture_doc.md)
+ - **4.2 Módulo Reutilização de Software**
+    - [Reutilização](/pages/reuse/software-reuse.md)
   
 ---
 
