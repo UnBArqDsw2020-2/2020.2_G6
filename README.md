@@ -71,20 +71,39 @@ Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Ent
 Adicione o(s)s vídeo(s) da Terceira Entrega.
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+
+>>
+***Figura 1: Documento de arquitetura.***
+<br>
+
+![Docuemnto de arquitetura](docs/assets/img/printscreen/das_entrega4.png) 
+<br>
+
+***Figura 2: Reutilização.***
+<br>
+
+![Reutilização](docs/assets/img/printscreen/reuse_entrega4.png) 
+<br>
+
+***Figura 3: Frozenspot.***
+<br>
+
+![Frozenspot](docs/assets/img/printscreen/reuse2_entrega4.png) 
+<br>
 
 ## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione o(s)s vídeo(s) da Entrega Final.
+[4.1 MÓDULO ESTILOS E PADRÕES ARQUITETURAIS](https://drive.google.com/drive/u/0/folders/1SpOvRGKD3YbwfFInvkv2yZLJP3sVvnj2)  
+[4.2 MÓDULO REUTILIZAÇÃO DE SOFTWARE](https://drive.google.com/drive/u/0/folders/1SpOvRGKD3YbwfFInvkv2yZLJP3sVvnj2)
 
 ## Descritivo dos Principais Aspectos Técnicos 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**: SCRUM<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: Java Script<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: React JS, Node JS<br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: MVC<br>
 
 ## O Projeto está rodando?
-( ) SIM
-( ) NÃO
+( ) SIM  
+( x ) NÃO  
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
 ## Informações Complementares 
